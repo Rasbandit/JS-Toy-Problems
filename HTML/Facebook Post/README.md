@@ -1,1 +1,1 @@
- <img src="https://github.com/Rasbandit/JS-Toy-Problems/blob/master/HTML/Facebook%20Post/images/fbPost.png">
+ <img src="https://github.com/Rasbandit/JS-Toy-Problems/blob/master/HTML/Facebook%20Post/images/FbPost.PNG?raw=true">
