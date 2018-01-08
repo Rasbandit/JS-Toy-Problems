@@ -45,10 +45,3 @@
   <img src="https://github.com/Rasbandit/JS-Toy-Problems/blob/master/HTML/TwitterClone/images/webPagePart6.jpg" width="700">
   <img src="https://github.com/Rasbandit/JS-Toy-Problems/blob/master/HTML/TwitterClone/images/boxesPart6.jpg" width="700">
 </p>
-
-## Step 7
-
-<p align="center">
-  <img src="https://github.com/Rasbandit/JS-Toy-Problems/blob/master/HTML/TwitterClone/images/webPagePart7.jpg" width="700">
-  <img src="https://github.com/Rasbandit/JS-Toy-Problems/blob/master/HTML/TwitterClone/images/boxesPart6.jpg" width="700">
-</p>
