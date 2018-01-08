@@ -4,27 +4,25 @@
 // output: {val: 12, units: "px"}
 
 function units(str) {
-  console.log(str)
-  let seperate = str.match(/[a-zA-Z]+|[0-9]+/g)
-  console.log(seperate)
-  return {val: parseInt(seperate[0]), units: seperate[1]}
+  console.log(str);
+  const seperate = str.match(/[a-zA-Z]+|[0-9]+/g);
+  console.log(seperate);
+  return { val: parseInt(seperate[0]), units: seperate[1] };
 }
-units('12px')
+units('12px');
 
 
-
-function sepNum(num){
-var numb=[];
- var meas=[];
- for(var i=0; i<num.length; i++){
-   if(num[i] == Number(num[i])){
-     numb.push(num[i]);
-   }
-   else{
-     meas.push(num[i])
-   }
- }
- return { val: numb.join(''), units: meas.join('')}
+function sepNum(num) {
+  const numb = [];
+  const meas = [];
+  for(let i = 0; i < num.length; i++) {
+    if(num[i] == Number(num[i])) {
+      numb.push(num[i]);
+    } else{
+      meas.push(num[i]);
+    }
+  }
+  return { val: numb.join(''), units: meas.join('') };
 }
 
-sepNum('12px')
+sepNum('12px');
