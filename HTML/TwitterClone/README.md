@@ -1,7 +1,7 @@
 # Twitter
 
 <p align="center">
-  <img src="https://github.com/Rasbandit/JS-Toy-Problems/blob/master/HTML/TwitterClone/images/twit.PNG" width="700">
+  <img src="https://github.com/Rasbandit/JS-Toy-Problems/blob/master/HTML/TwitterClone/images/twit.jpg" width="700">
 </p>
 
 ## Step 1
