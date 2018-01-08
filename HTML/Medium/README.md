@@ -1,5 +1,5 @@
 # Medium
-* The page, not the difficulty *
+The page, not the difficulty
 
 <p align="center">
   <img src="https://github.com/Rasbandit/JS-Toy-Problems/blob/master/HTML/Medium/images/medium.PNG" width="700">
@@ -45,11 +45,4 @@
 <p align="center">
   <img src="https://github.com/Rasbandit/JS-Toy-Problems/blob/master/HTML/Medium/images/mediumWires6.jpg" width="700">
   <img src="https://github.com/Rasbandit/JS-Toy-Problems/blob/master/HTML/Medium/images/mediumBoxes6.jpg" width="700">
-</p>
-
-## Step 7
-
-<p align="center">
-  <img src="https://github.com/Rasbandit/JS-Toy-Problems/blob/master/HTML/Medium/images/mediumWires7.jpg" width="700">
-  <img src="https://github.com/Rasbandit/JS-Toy-Problems/blob/master/HTML/Medium/images/mediumBoxes7.jpg" width="700">
 </p>
