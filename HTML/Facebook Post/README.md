@@ -1,1 +1,1 @@
- <img src="https://github.com/Rasbandit/React-Drills/blob/master/images/Clicker/Clicker.jpg">
+ <img src="https://github.com/Rasbandit/JS-Toy-Problems/blob/master/HTML/Facebook%20Post/images/fbPost.png">
