@@ -32,10 +32,3 @@
   <img src="https://github.com/Rasbandit/JS-Toy-Problems/blob/master/HTML/Adobe/Images/boxes4.jpg" width="700">
   <img src="https://github.com/Rasbandit/JS-Toy-Problems/blob/master/HTML/Adobe/Images/squares4.jpg" width="700">
 </p>
-
-## Step 5
-
-<p align="center">
-  <img src="https://github.com/Rasbandit/JS-Toy-Problems/blob/master/HTML/Adobe/Images/boxes5.jpg" width="700">
-  <img src="https://github.com/Rasbandit/JS-Toy-Problems/blob/master/HTML/Adobe/Images/squares5.jpg" width="700">
-</p>
