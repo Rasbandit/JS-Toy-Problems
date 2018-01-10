@@ -7,6 +7,7 @@ Monday: Teaching topic/normal toy problem
 Tuesday: cart
 Wednesday: HTML
 Thursday: Broken Toy problem
+Friday: Breakfast
 
 ## HTML
 
