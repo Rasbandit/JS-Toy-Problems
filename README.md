@@ -20,13 +20,13 @@ This is a list of topics I want to teach and to find a toy problem that focuses 
 
 This is in no way a compleate or finished list. if there is a () next to the title then it was a brief idea of a toy problem that could help teach that topic
 
-for loop to modify data (map)
-nested objects (my bob ross family tree)
-an array of objects
-while loop / do while
-for in/square brackets (loop through every property)
-for of (alternative for loop for arrays)
-switch (looking for vowels)
-if and / or (if male and 18)
-higher order functions
-double for loop
+<li>for loop to modify data (map)</li>
+<li>nested objects (my bob ross family tree)</li>
+<li>an array of objects</li>
+<li>while loop / do while</li>
+<li>for in/square brackets (loop through every property)</li>
+<li>for of (alternative for loop for arrays)</li>
+<li>switch (looking for vowels)</li>
+<li>if and / or (if male and 18)</li>
+<li>higher order functions</li>
+<li>double for loop</li>
