@@ -1,6 +1,12 @@
 # Concept for new toy problems
 
-The intro and medium folders are just random toy problems that I have collected but are not really part of my new plan specifically. Part of my goal with this is to eliminate "advanced toy problems" and make it so every problem will have a variety of aproaches and
+The intro and medium folders are just random toy problems that I have collected but are not really part of my new plan specifically. Part of my goal with this is to eliminate "advanced toy problems" and make it so every problem will have a variety of approaches and ways to optimize them.
+
+## Purposed Weekly Schedule
+Monday: Teaching topic/normal toy problem
+Tuesday: cart
+Wednesday: HTML
+Thursday: Broken Toy problem
 
 ## HTML
 
@@ -30,5 +36,9 @@ This is in no way a compleat or finished list. if there is a () next to the titl
 <li>if and / or (if male and 18)</li>
 <li>higher order functions</li>
 <li>double for loop</li>
+
+## SQL Schema
+
+Later in the I would like to do one or who Schema toy problem. So specifically how to build a table for the data you need. Not how to select from it. We spend enough time on how to get data, but not how to structure data.
 
 # Hi Todd!!!!
