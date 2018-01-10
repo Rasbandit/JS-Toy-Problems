@@ -25,7 +25,7 @@ function vowelCounter(str) {
         total++;
         break;
     }
-  })
+    return
 }
 
 console.log(vowelCounter(vowelString));

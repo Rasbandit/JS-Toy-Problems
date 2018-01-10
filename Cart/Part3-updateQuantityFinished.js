@@ -41,5 +41,3 @@ function updateQuantity(product, currentCart) {
 }
 
 cart = updateQuantity({id: 4, quantity: 6}, cart);
-
-cart

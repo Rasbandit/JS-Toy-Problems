@@ -1,6 +1,6 @@
-# HEY DOUG!!!!
+# Basis for
 
-The intro and medium folders are just random toy problems that I have collected but are not relly part of my new plan specifically
+The intro and medium folders are just random toy problems that I have collected but are not really part of my new plan specifically. Part of my goal with this is to eliminate "advanced toy problems" and make it
 
 ## HTML
 
@@ -16,12 +16,12 @@ Everyone of these problems does not work. With each one you can solve it by only
 
 ## Teaching topics
 
-This is a list of topics I want to teach and to find a toy problem that focuses on teaching each one specificaly. I just felt like our toy problems most of the time end up just being the same things over and over. This ensures variety.
+This is a list of topics I want to teach and to find a toy problem that focuses on teaching each one specifically. I just felt like our toy problems most of the time end up just being the same things over and over. This ensures variety.
 
-This is in no way a compleate or finished list. if there is a () next to the title then it was a brief idea of a toy problem that could help teach that topic
+This is in no way a compleat or finished list. if there is a () next to the title then it is a brief description of a toy problem that could help teach that topic. We should make it clear before hand what method or words they should search so they can do the toy problem.
 
 <li>for loop to modify data (map)</li>
-<li>nested objects (my bob ross family tree)</li>
+<li>nested objects/large objects (my bob ross family tree https://repl.it/@Rasbandit/Bob-Ross-Family-Tree-Test-Data)</li>
 <li>an array of objects</li>
 <li>while loop / do while</li>
 <li>for in/square brackets (loop through every property)</li>
