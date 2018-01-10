@@ -12,7 +12,7 @@ The idea of this one was to try and spend multiple days spread over a few weeks 
 
 ## Broken Problems
 
-Everyone of these problems does not work. With each one you can solve it by only modifying existing lines, there is not a need to write more lines of code. This is could be a good starting place for teaching the scientific method.
+Everyone of these problems does not work. With each one you can solve it by only modifying existing lines, there is not a need to write more lines of code. This is could be a good starting place for teaching the students how to troubleshoot using the scientific method (more on this per request).
 
 ## Teaching topics
 
