@@ -30,3 +30,5 @@ This is in no way a compleate or finished list. if there is a () next to the tit
 <li>if and / or (if male and 18)</li>
 <li>higher order functions</li>
 <li>double for loop</li>
+
+# Hi Todd!!!!
