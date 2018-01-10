@@ -30,3 +30,5 @@ switch (looking for vowels)
 if and / or (if male and 18)
 higher order functions
 double for loop
+
+# Hi Todd!!!!
