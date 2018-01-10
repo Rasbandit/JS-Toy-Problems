@@ -1,6 +1,6 @@
 # Concept for new toy problems
 
-The intro and medium folders are just random toy problems that I have collected but are not really part of my new plan specifically. Part of my goal with this is to eliminate "advanced toy problems" and make it
+The intro and medium folders are just random toy problems that I have collected but are not really part of my new plan specifically. Part of my goal with this is to eliminate "advanced toy problems" and make it so every problem will have a variety of aproaches and
 
 ## HTML
 
