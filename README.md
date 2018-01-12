@@ -41,5 +41,3 @@ This is in no way a compleat or finished list. if there is a () next to the titl
 ## SQL Schema
 
 Later in the I would like to do one or who Schema toy problem. So specifically how to build a table for the data you need. Not how to select from it. We spend enough time on how to get data, but not how to structure data.
-
-# Hi Todd!!!!
