@@ -4,7 +4,7 @@ The intro and medium folders are just random toy problems that I have collected 
 
 ## Purposed Weekly Schedule
 Monday: Teaching topic/normal toy problem
-Tuesday: cart
+Tuesday: Cart (Week 5 SQL Cart Schema)
 Wednesday: HTML
 Thursday: Broken Toy problem
 Friday: Breakfast
@@ -29,7 +29,7 @@ This is in no way a compleat or finished list. if there is a () next to the titl
 
 <li>for loop to modify data (map)</li>
 <li>nested objects/large objects (my bob ross family tree https://repl.it/@Rasbandit/Bob-Ross-Family-Tree-Test-Data)</li>
-<li>an array of objects</li>
+<li>working with an array of objects</li>
 <li>while loop / do while</li>
 <li>for in/square brackets (loop through every property)</li>
 <li>for of (alternative for loop for arrays)</li>
