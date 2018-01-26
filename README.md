@@ -3,6 +3,7 @@
 The intro and medium folders are just random toy problems that I have collected but are not really part of my new plan specifically. Part of my goal with this is to eliminate "advanced toy problems" and make it so every problem will have a variety of approaches and ways to optimize them.
 
 ## Purposed Weekly Schedule
+
 Monday: Teaching topic/normal toy problem
 Tuesday: Cart (Week 5 SQL Cart Schema)
 Wednesday: HTML
