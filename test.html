@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+
+<body>
+  <style>
+    #just-line-break {
+      white-space: pre-line;
+    }
+
+    #line-break-and-tab {
+      white-space: pre-wrap;
+    }
+  </style>
+  <div id="just-line-break"></div>
+
+  <br/>
+
+  <div id="line-break-and-tab"></div>
+
+  <script>
+    document.getElementById('just-line-break').innerHTML = 'Testing 1\nTesting 2\n\tNo tab';
+
+    document.getElementById('line-break-and-tab').innerHTML = 'Testing 1\nTesting 2\n\tWith tab'
+  </script>
+</body>
+
+</html>

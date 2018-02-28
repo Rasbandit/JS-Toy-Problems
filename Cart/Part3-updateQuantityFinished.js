@@ -1,6 +1,6 @@
 // Below is an array of products that are in a cart.
 // Write a function That will take in an item to modify in the cart and the cart array.
-// The funciton will update the quantity of the item you are passing in.
+// The function will update the quantity of the item you are passing in.
 // When you have updated the cart then return the new cart.
 
 let cart = [{
@@ -33,11 +33,15 @@ let cart = [{
 function updateQuantity(product, currentCart) {
   let newCart = currentCart
   for (let i = 0; i < newCart.length; i++) {
-    if(newCart[i].id === product.id) {
+    if (newCart[i].id === product.id) {
       newCart[i].quantity = product.quantity
     }
   }
   return newCart
 }
 
-cart = updateQuantity({id: 4, quantity: 6}, cart);
+cart = updateQuantity({ id: 4, quantity: 6 }, cart);
+
+let updateQuantityQuick = (product, currentCart) => {
+
+}

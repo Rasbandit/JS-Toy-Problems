@@ -2,6 +2,9 @@
 // Write a function that will take in the cart and a tax amount and calculate the total price of the cart with the tax.
 // Return the total of the cart rounded the 2nd decimal place
 
+// Advanced: use a reduce function
+// Master: Do this in one line
+
 let cart = [{
   id: 1,
   product: 'Snapple Raspberry Tea',
@@ -40,3 +43,7 @@ function calculateTotal(cart, tax) {
 
 let total = calculateTotal(cart, 1.06)
 total
+
+let shortTotal = (cart, tax) => (cart.reduce((total, item) => total + (item.price * item.quantity), 0) * tax).toFixed(2)
+
+console.log(shortTotal(cart, 1.03));
