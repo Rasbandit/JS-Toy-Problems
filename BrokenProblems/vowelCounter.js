@@ -26,8 +26,6 @@ function vowelCounter(str) {
         break;
     }
     return
-}
+  }
 
 console.log(vowelCounter(vowelString));
-
-// This one can be fixed by altering existing lines and adding only one

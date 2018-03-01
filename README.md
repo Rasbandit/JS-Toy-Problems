@@ -34,9 +34,9 @@ Typically the process starts at the Observation step. You may observe, "my code 
 
 1. Observation
 
-2. Question
+2. Question your assumptions
 
-3. Hypothesis
+3. Form Hypothesis
 
 4. Experiment
 
@@ -59,14 +59,9 @@ This is a list of topics I want to teach and to find a toy problem that focuses 
 This is in no way a compleat or finished list. if there is a () next to the title then it is a brief description of a toy problem that could help teach that topic. We should make it clear before hand what method or words they should search so they can do the toy problem.
 
 <li>for loop to modify data (map)</li>
-<li>nested objects/large objects (my bob ross family tree https://repl.it/@Rasbandit/Bob-Ross-Family-Tree-Test-Data)</li>
 <li>working with an array of objects</li>
-<li>while loop / do while</li>
 <li>for in/square brackets (loop through every property)</li>
-<li>for of (alternative for loop for arrays)</li>
-<li>switch (looking for vowels)</li>
 <li>if and / or (if male and 18)</li>
-<li>higher order functions</li>
 <li>double for loop</li>
 
 ## SQL Schema

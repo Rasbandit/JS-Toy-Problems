@@ -3,7 +3,7 @@
 // Given the array of user objects, find the user with the highest score.
 // return a string that says, 'congratulations [user], you have the high score'
 
-// Challenges
+// Bonus Challenges
 // Use the sort method on the array to find the highest score.
 // Use the for of loop.
 // Do this in one line.

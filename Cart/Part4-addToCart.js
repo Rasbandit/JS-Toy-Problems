@@ -1,6 +1,6 @@
 // Below is an array of products that are in a cart.
 // Write a function That will take in an item to be added to the cart and the cart array.
-// The funciton will add the item to the cart unless it is a duplicate, then update the quantity instead.
+// The function will add the item to the cart unless it is a duplicate, then update the quantity instead.
 // When you have updated the cart then return the new cart.
 
 let cart = [{

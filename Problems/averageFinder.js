@@ -5,11 +5,12 @@
 // return the average.
 
 // test data
-// [1,2,3,4,5,6,7,8,9,10]
+// [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 // [52, 6, 109, 99, 78, 3, 1, -6]
 
-// Challenges
+// Bonus Challenges
 // Use a for of loop
 // Use the reduce method.
 // Before returning the average, round up to the nearest whole value.
-// Only find the average of even numbers.
+// Only find the average of the even numbers.
+// How would you handle if there were strings? some strings numbers some letters?

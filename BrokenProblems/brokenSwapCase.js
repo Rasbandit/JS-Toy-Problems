@@ -1,9 +1,11 @@
-//Swap Case
-//create a function that takes in a string and revereses the case of every character and returns the new string.
+// Swap Case
+// Below is a function that takes in a string and reverses the case of every character and returns the new string.
+// It is currently in a broken state and does not run properly.
+// It is possible to fix the code by only modifying the existing code, not adding new lines.
 
 //test data
 //'This Is An Example' becomes 'tHIS iS aN eXAMPLE'
-//'PoOh bEAr IS thE OrIgInAl GanGster' Becomes 'pOoH BeaR is THe oRiGiNaL gANgSTER'
+//'boB rOss IS thE OrIgInAl GanGster' Becomes 'BOb RoSS is THe oRiGiNaL gANgSTER'
 
 
 function caseReverse(str) {
@@ -18,4 +20,4 @@ function caseReverse(str) {
   return strArray
 }
 
-console.log(caseReverse('PoOh bEAr IS thE OrIgInAl GanGster'));
+console.log(caseReverse('boB rOss IS thE OrIgInAl GanGster'));

@@ -13,7 +13,7 @@
 // Please keep in mind that the test cases ensure that the number of people in the bus is always >= 0. So the return integer can't be negative.
 
 // number([[10,0],[3,5],[5,8]]) should return 5
-// number([[3,0],[9,1],[4,10],[12,2],[6,1],[7,10]]) should retrun 17
+// number([[3,0],[9,1],[4,10],[12,2],[6,1],[7,10]]) should return 17
 // number([[3,0],[9,1],[4,8],[12,2],[6,1],[7,8]]) Should return 21
 
 let stops = [[3, 0], [9, 1], [4, 8], [12, 2], [6, 1], [7, 8]]
