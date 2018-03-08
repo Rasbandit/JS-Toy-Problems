@@ -4,7 +4,8 @@
 // You should observe that the objects are not being copied
 // Both variables point to the same object and change the same values.
 // This phenomenon is called 'passing by reference.'
-// Look up Object.assign, it can be a solution to getting around this issue. It is also great a merging objects.
+// Look up Object.assign, it can be a solution to getting around this issue.
+// It is also great a merging objects.
 
 // Now lets put your Object.assign skills to the test.
 // Using Object.assign create a new object that is the combination of 3 other objects.
@@ -19,7 +20,6 @@
 // let objTwo = objOne;
 // objTwo.job = "God Painter";
 // console.log(objOne)
-
 
 
 // function objectChanger(item) {

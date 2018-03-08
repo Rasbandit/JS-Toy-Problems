@@ -67,3 +67,32 @@ This is in no way a compleat or finished list. if there is a () next to the titl
 ## SQL Schema
 
 Later in the I would like to do one or who Schema toy problem. So specifically how to build a table for the data you need. Not how to select from it. We spend enough time on how to get data, but not how to structure data.
+
+## Purposed Toy Problem
+
+### Week 1
+  <ul>
+    <li>Day 1: none</li>
+    <li>Day 2: 45 Minute Fizz Buzz With 8, step Walk through</li>
+    <li>Day 3: Broken Problems 1, Swap Case</li>
+    <li>Day 4: Array's and Reference (in prep for react 1)</li>
+    <li>Day 5: None</li>
+  </ul>
+
+### Week 2
+<ul>
+  <li>Day 1: This and Context</li>
+  <li>Day 2: Bob Ross Family Tree</li>
+  <li>Day 3: Vowel Counter</li>
+  <li>Day 4: </li>
+  <li>Day 5: None</li>
+</ul>
+
+### Week 3
+<ul>
+  <li>Day 1: None</li>
+  <li>Day 2: </li>
+  <li>Day 3: </li>
+  <li>Day 4: </li>
+  <li>Day 5: None</li>
+</ul>
