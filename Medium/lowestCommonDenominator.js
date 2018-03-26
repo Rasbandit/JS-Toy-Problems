@@ -14,32 +14,36 @@ const fractionsTwo = [[3, 7], [8, 12], [7, 45]];
 function LCD(fractions) {
   let largestDenominator = 0;
   fractions.forEach((fraction) => {
-    if(fraction[1] > largestDenominator) {
-      largestDenominator = fraction[1];
+    let [numerator, denominator] = fraction
+    if (denominator > largestDenominator) {
+      largestDenominator = denominator;
     }
   });
   let denominatorsAreDivisibleByCounter = 0;
-  let currentLcdToCheck = largestDenominator;
+  let currentLCDToCheck = largestDenominator;
   const numberOfFractions = fractions.length;
   do {
     denominatorsAreDivisibleByCounter = 0;
     fractions.forEach((fraction) => {
       const fractionsDenominator = fraction[1];
-      if (currentLcdToCheck % fractionsDenominator === 0) {
+      if (currentLCDToCheck % fractionsDenominator === 0) {
         denominatorsAreDivisibleByCounter += 1;
       }
     });
-    if(denominatorsAreDivisibleByCounter !== numberOfFractions) {
+    if (denominatorsAreDivisibleByCounter !== numberOfFractions) {
       denominatorsAreDivisibleByCounter = 0;
-      currentLcdToCheck += largestDenominator;
+      currentLCDToCheck += largestDenominator;
     }
   } while (denominatorsAreDivisibleByCounter !== numberOfFractions);
-  return fractions.map((fraction) => {
-    const numberToMultiplyBy = currentLcdToCheck / fraction[1];
+
+  let commonDenominatorFractions = fractions.map((fraction) => {
+    const numberToMultiplyBy = currentLCDToCheck / fraction[1];
     fraction[0] = numberToMultiplyBy * fraction[0];
     fraction[1] = numberToMultiplyBy * fraction[1];
     return fraction;
   });
+
+  return commonDenominatorFractions
 }
 const x = LCD(fractionsOne);
 x;

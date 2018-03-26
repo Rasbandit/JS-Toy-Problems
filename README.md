@@ -84,7 +84,7 @@ Later in the I would like to do one or who Schema toy problem. So specifically h
   <li>Day 1: This and Context</li>
   <li>Day 2: Bob Ross Family Tree</li>
   <li>Day 3: Broken - Vowel Counter</li>
-  <li>Day 4: Cart - Remove From Cart</li>
+  <li>Day 4: Cart - class setup/Remove From Cart</li>
   <li>Day 5: None</li>
 </ul>
 
@@ -92,15 +92,24 @@ Later in the I would like to do one or who Schema toy problem. So specifically h
 <ul>
   <li>Day 1: None</li>
   <li>Day 2: Cart - Calculate Total</li>
-  <li>Day 3: Cart - Update Quantity / Add to Cart</li>
-  <li>Day 4: Broken - Factorial</li>
+  <li>Day 3: Cart - Update Quantity</li>
+  <li>Day 4: Broken - Largest Even</li>
   <li>Day 5: None</li>
 </ul>
 
 ### Week 4
 <ul>
   <li>Day 1: Object.Assign</li>
-  <li>Day 2: </li>
+  <li>Day 2: Cart - Add to Cart</li>
+  <li>Day 3: Average Finder</li>
+  <li>Day 4: Broken - Bus Tracker</li>
+  <li>Day 5: None</li>
+</ul>
+
+### Week 5
+<ul>
+  <li>Day 1: HTML (adobe)</li>
+  <li>Day 2: Palindrome</li>
   <li>Day 3: </li>
   <li>Day 4: </li>
   <li>Day 5: None</li>
