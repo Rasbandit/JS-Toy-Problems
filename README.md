@@ -73,9 +73,9 @@ Later in the I would like to do one or who Schema toy problem. So specifically h
 ### Week 1
   <ul>
     <li>Day 1: none</li>
-    <li>Day 2: 45 Minute Fizz Buzz With 8, step Walk through</li>
-    <li>Day 3: Broken Problems 1, Swap Case</li>
-    <li>Day 4: Array's and Reference (in prep for react 1)</li>
+    <li>Day 2: 45 Minute Fizz Buzz With '8 step Walk through'</li>
+    <li>Day 3: Broken - Swap Case</li>
+    <li>Day 4: Broken - Array's and Reference</li>
     <li>Day 5: None</li>
   </ul>
 
@@ -83,14 +83,23 @@ Later in the I would like to do one or who Schema toy problem. So specifically h
 <ul>
   <li>Day 1: This and Context</li>
   <li>Day 2: Bob Ross Family Tree</li>
-  <li>Day 3: Vowel Counter</li>
-  <li>Day 4: </li>
+  <li>Day 3: Broken - Vowel Counter</li>
+  <li>Day 4: Cart - Remove From Cart</li>
   <li>Day 5: None</li>
 </ul>
 
 ### Week 3
 <ul>
   <li>Day 1: None</li>
+  <li>Day 2: Cart - Calculate Total</li>
+  <li>Day 3: Cart - Update Quantity / Add to Cart</li>
+  <li>Day 4: Broken - Factorial</li>
+  <li>Day 5: None</li>
+</ul>
+
+### Week 4
+<ul>
+  <li>Day 1: Object.Assign</li>
   <li>Day 2: </li>
   <li>Day 3: </li>
   <li>Day 4: </li>

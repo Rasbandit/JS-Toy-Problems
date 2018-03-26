@@ -1,35 +1,17 @@
-// Copying and Merging Objects
-// Run each code block listed below and pay carful attention to the results of the console.log's
+// Below we have two parts to a cat. But we want one whole cat.
+// We need to combine the properties of both catParts and catLimbs into cat so we get one object with all 7 properties.
 
-// You should observe that the objects are not being copied
-// Both variables point to the same object and change the same values.
-// This phenomenon is called 'passing by reference.'
-// Look up Object.assign, it can be a solution to getting around this issue.
-// It is also great a merging objects.
+let catLimbs = { legs: 4, tail: .5, head: 1 }
+let catSounds = { sound: 'Meow', makeSound: function () { return this.sound } }
 
-// Now lets put your Object.assign skills to the test.
-// Using Object.assign create a new object that is the combination of 3 other objects.
+let cat = { name: 'Dr. Mittens', favoriteFood: 'fish flesh' }
 
-// If you swap out all the objects in the code below with arrays you will see a similar phenomenon.
-// Two ways to deal with arrays and reference is to use the spread operator '...' or .slice() method.
-
-// let objOne = {
-//   name: 'Bob Ross',
-//   job: 'Joy Giver'
-// }
-// let objTwo = objOne;
-// objTwo.job = "God Painter";
-// console.log(objOne)
+// We can use the for in loop to go through each property of an object.
+// We will need to do this twice, once for catLimbs and once for catSounds.
+// You will also need to use bracket notation.
 
 
-// function objectChanger(item) {
-//   item.job = "Cardio Guru"
-//   return
-// }
-// let obj = {
-//   name: "Richard Simmons",
-//   job: "Exercise Genie"
-// }
-// objectChanger(obj)
-// console.log(obj)
-
+// There has to be a better way to do that. And there is!
+// Try searching for Object.assign and looking at what that does.
+// Store the result of the Object.assign to a variable.
+// Try console.logging all the objects and pay close attention to the results. You may have two variables with all 7 properties.

@@ -1,6 +1,8 @@
 // Below is an array of products that are in a cart.
-// Write a function That will take in an item to modify in the cart and the cart array.
-// The funciton will update the quantity of the item you are passing in.
+// Write a function That will take in two parameters.
+// One parameter is an object with the id of the item to update, and the quantity to set it to.
+// The second parameter is the cart array to be updated.
+// The function will update the quantity of the item you are passing in.
 // When you have updated the cart then return the new cart.
 
 let cart = [{

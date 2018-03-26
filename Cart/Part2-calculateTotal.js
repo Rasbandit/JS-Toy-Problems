@@ -1,5 +1,6 @@
 // Below is an array of products that are in a cart.
 // Write a function that will take in the cart and a tax amount and calculate the total price of the cart with the tax.
+// Have the function assume 7% tax rate if one is not passed in (look up default params).
 // Return the total of the cart rounded the 2nd decimal place
 
 let cart = [{
