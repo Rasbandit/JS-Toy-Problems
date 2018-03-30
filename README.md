@@ -75,14 +75,14 @@ Later in the I would like to do one or who Schema toy problem. So specifically h
     <li>Day 1: none</li>
     <li>Day 2: 45 Minute Fizz Buzz With '8 step Walk through'</li>
     <li>Day 3: Broken - Swap Case</li>
-    <li>Day 4: Broken - Array's and Reference</li>
+    <li>Day 4: Broken - Array's and Reference(In prep for setState/immutability)</li>
     <li>Day 5: None</li>
   </ul>
 
 ### Week 2
 <ul>
-  <li>Day 1: This and Context</li>
-  <li>Day 2: Bob Ross Family Tree</li>
+  <li>Day 1: This and Context(In prep for props/binding)</li>
+  <li>Day 2: Bob Ross Family Tree (in prep for axios)</li>
   <li>Day 3: Broken - Vowel Counter</li>
   <li>Day 4: Cart - class setup/Remove From Cart</li>
   <li>Day 5: None</li>
@@ -99,7 +99,7 @@ Later in the I would like to do one or who Schema toy problem. So specifically h
 
 ### Week 4
 <ul>
-  <li>Day 1: Object.Assign</li>
+  <li>Day 1: Object.Assign(In prep for Redux)</li>
   <li>Day 2: Cart - Add to Cart</li>
   <li>Day 3: Average Finder</li>
   <li>Day 4: Broken - Bus Tracker</li>
@@ -108,8 +108,17 @@ Later in the I would like to do one or who Schema toy problem. So specifically h
 
 ### Week 5
 <ul>
-  <li>Day 1: HTML (adobe)</li>
+  <li>Day 1: HTML Adobe(In prep for Media Queries)</li>
   <li>Day 2: Palindrome</li>
+  <li>Day 3: Letter Frequency</li>
+  <li>Day 4: None (Do the wireframe project planning for all day review)</li>
+  <li>Day 5: None</li>
+</ul>
+
+### Week 6
+<ul>
+  <li>Day 1: None (PP kick off)</li>
+  <li>Day 2: </li>
   <li>Day 3: </li>
   <li>Day 4: </li>
   <li>Day 5: None</li>
