@@ -10,19 +10,17 @@ Doing these steps will add extra time onto the problem so you may want to give t
 
 // Step 1: Clarify - Understand the question
 
-// Step 2: What data structures are needed
+// Step 2: Create sample data
 
-// Step 3: Create sample data
+// Step 3: Solve Sample Data
 
-// Step 4: Solve Sample Data
+// Step 4: Function Signature
 
-// Step 5: Function Signature
+// Step 5: List code constructs
 
-// Step 6: List code constructs
+// Step 6: Pseudo Code
 
-// Step 7: Pseudo Code
-
-// Step 8: Solve
+// Step 7: Solve
 
 ## Broken Problems
 
