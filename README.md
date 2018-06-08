@@ -2,6 +2,53 @@
 
 The intro and medium folders are just random toy problems that I have collected but are not really part of my new plan specifically. Part of my goal with this is to eliminate "advanced toy problems" and make it so every problem will have a variety of approaches and ways to optimize them.
 
+## Purposed Toy Problem
+
+### Week 1
+  <ul>
+    <li>Day 1: none</li>
+    <li>Day 2: 45 Minute Fizz Buzz With '8 step Walk through'</li>
+    <li>Day 3: Broken - Swap Case</li>
+    <li>Day 4: Broken - Array's and Reference(In prep for setState/immutability)</li>
+    <li>Day 5: None</li>
+  </ul>
+
+### Week 2
+<ul>
+  <li>Day 1: This and Context(In prep for props/binding)</li>
+  <li>Day 2: Bob Ross Family Tree (in prep for axios)</li>
+  <li>Day 3: Broken - Vowel Counter</li>
+  <li>Day 4: Cart - class setup/Remove From Cart</li>
+  <li>Day 5: None</li>
+</ul>
+
+### Week 3
+<ul>
+  <li>Day 1: None</li>
+  <li>Day 2: Cart - Calculate Total</li>
+  <li>Day 3: Cart - Update Quantity</li>
+  <li>Day 4: Broken - Largest Even</li>
+  <li>Day 5: None</li>
+</ul>
+
+### Week 4
+<ul>
+  <li>Day 1: Object.Assign(In prep for Redux)</li>
+  <li>Day 2: Cart - Add to Cart</li>
+  <li>Day 3: Average Finder</li>
+  <li>Day 4: Broken - Bus Tracker</li>
+  <li>Day 5: None</li>
+</ul>
+
+### Week 5
+<ul>
+  <li>Day 1: HTML Adobe(In prep for Media Queries)</li>
+  <li>Day 2: Palindrome</li>
+  <li>Day 3: Letter Frequency</li>
+  <li>Day 4: None (Do the wireframe project planning for all day review)</li>
+  <li>Day 5: None</li>
+</ul>
+
 ## Problem Solving
 
 Below are steps that should be used for teaching how to solve toy problems. It is vitally important to use this on every toy problem you do from scratch. This teaches them how to break down a toy problem and identify its parts. This is also the exact same steps that should be followed when doing white board problems, Make sure the students know that! Help them to see the value in being clear with your communication and planning. Some steps seem to be not worth while but if a student is struggling with toy problems you should be able to help them see that their problem has to do with one of the steps.
@@ -65,59 +112,3 @@ This is in no way a compleat or finished list. if there is a () next to the titl
 ## SQL Schema
 
 Later in the I would like to do one or who Schema toy problem. So specifically how to build a table for the data you need. Not how to select from it. We spend enough time on how to get data, but not how to structure data.
-
-## Purposed Toy Problem
-
-### Week 1
-  <ul>
-    <li>Day 1: none</li>
-    <li>Day 2: 45 Minute Fizz Buzz With '8 step Walk through'</li>
-    <li>Day 3: Broken - Swap Case</li>
-    <li>Day 4: Broken - Array's and Reference(In prep for setState/immutability)</li>
-    <li>Day 5: None</li>
-  </ul>
-
-### Week 2
-<ul>
-  <li>Day 1: This and Context(In prep for props/binding)</li>
-  <li>Day 2: Bob Ross Family Tree (in prep for axios)</li>
-  <li>Day 3: Broken - Vowel Counter</li>
-  <li>Day 4: Cart - class setup/Remove From Cart</li>
-  <li>Day 5: None</li>
-</ul>
-
-### Week 3
-<ul>
-  <li>Day 1: None</li>
-  <li>Day 2: Cart - Calculate Total</li>
-  <li>Day 3: Cart - Update Quantity</li>
-  <li>Day 4: Broken - Largest Even</li>
-  <li>Day 5: None</li>
-</ul>
-
-### Week 4
-<ul>
-  <li>Day 1: Object.Assign(In prep for Redux)</li>
-  <li>Day 2: Cart - Add to Cart</li>
-  <li>Day 3: Average Finder</li>
-  <li>Day 4: Broken - Bus Tracker</li>
-  <li>Day 5: None</li>
-</ul>
-
-### Week 5
-<ul>
-  <li>Day 1: HTML Adobe(In prep for Media Queries)</li>
-  <li>Day 2: Palindrome</li>
-  <li>Day 3: Letter Frequency</li>
-  <li>Day 4: None (Do the wireframe project planning for all day review)</li>
-  <li>Day 5: None</li>
-</ul>
-
-### Week 6
-<ul>
-  <li>Day 1: None (PP kick off)</li>
-  <li>Day 2: </li>
-  <li>Day 3: </li>
-  <li>Day 4: </li>
-  <li>Day 5: None</li>
-</ul>
