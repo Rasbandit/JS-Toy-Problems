@@ -15,7 +15,7 @@ The intro and medium folders are just random toy problems that I have collected 
 
 ### Week 2
 <ul>
-  <li>Day 1: This and Context(In prep for props/binding)</li>
+  <li>Day 1: This and Context(In prep for props/binding(Teaching notes in file))</li>
   <li>Day 2: Bob Ross Family Tree (in prep for axios)</li>
   <li>Day 3: Broken - Vowel Counter</li>
   <li>Day 4: Cart - class setup/Remove From Cart</li>
