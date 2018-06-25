@@ -17,7 +17,7 @@ The intro and medium folders are just random toy problems that I have collected 
 <ul>
   <li>Monday: This and Context(In prep for props/binding(Teaching notes in file))</li>
   <li>Tuesday: Bob Ross Family Tree (in prep for axios)</li>
-  <li>Wednesday: Broken - Vowel Counter</li>
+  <li>Wednesday: Array cardio</li>
   <li>Thursday: Skip Toy problem in favor of showing how to connect react and node.</li>
   <li>Friday: None</li>
 </ul>
@@ -36,7 +36,7 @@ The intro and medium folders are just random toy problems that I have collected 
   <li>Monday: Object.Assign(In prep for Redux)</li>
   <li>Tuesday: Cart - Add to Cart</li>
   <li>Wednesday: Average Finder</li>
-  <li>Thursday: Broken - Bus Tracker</li>
+  <li>Thursday: Broken - Vowel Counter</li>
   <li>Friday: None</li>
 </ul>
 
@@ -49,11 +49,29 @@ The intro and medium folders are just random toy problems that I have collected 
   <li>Friday: None</li>
 </ul>
 
+### Week 8
+<ul>
+  <li>Monday: Lowest Common Denominator</li>
+  <li>Tuesday: Primes Summed</li>
+  <li>Wednesday: Randomize Array</li>
+  <li>Thursday: Ransom Note</li>
+  <li>Friday: None</li>
+</ul>
+
+### Week 9
+<ul>
+  <li>Monday: Fibonacci Recursion</li>
+  <li>Tuesday: Does It Contain</li>
+  <li>Wednesday: </li>
+  <li>Thursday: </li>
+  <li>Friday: </li>
+</ul>
+
 ## Problem Solving
 
-Below are steps that should be used for teaching how to solve toy problems. It is vitally important to use this on every toy problem you do from scratch. This teaches them how to break down a toy problem and identify its parts. This is also the exact same steps that should be followed when doing white board problems, Make sure the students know that! Help them to see the value in being clear with your communication and planning. Some steps seem to be not worth while but if a student is struggling with toy problems you should be able to help them see that their problem has to do with one of the steps.
+With toy problems I recommend starting at the same time you give it out and spend around the fist 15ish minutes going over the steps below. For the students who are doing well they can ignore you and just work on the problem.
 
-Doing these steps will add extra time onto the problem so you may want to give them 10 minutes to work before you jump in.
+Below are steps that should be used for teaching how to solve toy problems. It is vitally important to use this on every toy problem you do from scratch. This teaches them how to break down a toy problem and identify its parts. This is also the exact same steps that should be followed when doing white board problems, Make sure the students know that! Help them to see the value in being clear with your communication and planning. Some steps seem to be not worth while but if a student is struggling with toy problems you should be able to help them see that their problem has to do with one of the steps.
 
 // Step 1: Clarify - Understand the question
 
@@ -71,11 +89,12 @@ Doing these steps will add extra time onto the problem so you may want to give t
 
 ## Broken Problems
 
-Every one of these problems do not work. With each one you can solve it by only modifying existing lines (make sure to communicate this to the students), there is no need to write more lines of code. The purpose of this is to teach the students how to become good trouble shooters and develop debugging skills/mindset. A trouble shooting mindset is more like a way of life than just a coding idea. These troubleshooting steps are universal and apply to any subject.
+Every one of these problems is "finished" but does not work. With each one you can solve it by only modifying existing lines (make sure to communicate this to the students), there is no need to write more lines of code. The purpose of this is to teach the students how to troubleshoot and develop debugging skills/mindset. A trouble shooting mindset is more like a way of life than just a coding idea. These troubleshooting steps are universal and apply to any subject.
 
-I recommend leaving these steps on some kind of 'note' software so it can always be visible and on top of your coding window, and you can write down your thoughts as you go along. This also help students see all the steps instead of trying to keep it in their heads.
+Typically the process starts at the Observation step. You may observe, "my code does not work" and that is a viable and helpful observation. From there you need to ask questions. Questions like, what does this line really do? One of the hardest things to do is learning to question your own assumptions, and even harder is realizing you are making assumptions. The goal from here is to get confirmations of your assumptions but performing experiments that will give you hard evidence to either prove or disprove your theories.
 
-Typically the process starts at the Observation step. You may observe, "my code does not work" and that is a viable and helpful observation. From there you need to ask questions. Questions like, what does this line really do? One of the hardest things to question is your own assumptions, and even harder is realizing you are making assumptions. The goal from here is to get confirmations of your assumptions but performing experiments that will give you hard evidence to either prove or disprove your theories.
+#### IMPORTANT
+If all you do for these problems is solve the problems you will finish in about 5 minutes. But that is not the point of the problem. It is to teach the students how to perform tests. You should make it clear to the students that you don't want fixes, you want theorys, and how to we can test those theories.
 
 1. Observation
 
@@ -97,18 +116,7 @@ The HTML has a few sites drawn with boxes around them progressing through how to
 
 The idea of this one was to try and spend multiple days spread over a few weeks where they built something that felt more real and usable. Also this would help for when students want to build a cart and now you could have them pull up their toy problems for a starting point.
 
-## Teaching topics
 
-This is a list of topics I want to teach and to find a toy problem that focuses on teaching each one specifically. I just felt like our toy problems most of the time end up just being the same things over and over. This ensures variety.
-
-This is in no way a compleat or finished list. if there is a () next to the title then it is a brief description of a toy problem that could help teach that topic. We should make it clear before hand what method or words they should search so they can do the toy problem.
-
-<li>for loop to modify data (map)</li>
-<li>working with an array of objects</li>
-<li>for in/square brackets (loop through every property)</li>
-<li>if and / or (if male and 18)</li>
-<li>double for loop</li>
-
-## SQL Schema
-
-Later in the I would like to do one or who Schema toy problem. So specifically how to build a table for the data you need. Not how to select from it. We spend enough time on how to get data, but not how to structure data.
+// spread
+// destructuring and nested
+// array cardio
