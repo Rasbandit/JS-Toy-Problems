@@ -6,47 +6,47 @@ The intro and medium folders are just random toy problems that I have collected 
 
 ### Week 1
   <ul>
-    <li>Day 1: none</li>
-    <li>Day 2: 45 Minute Fizz Buzz With '8 step Walk through'</li>
-    <li>Day 3: Broken - Swap Case</li>
-    <li>Day 4: Broken - Array's and Reference(In prep for setState/immutability)</li>
-    <li>Day 5: None</li>
+    <li>Monday: none</li>
+    <li>Tuesday: 45 Minute Fizz Buzz With '8 step Walk through'</li>
+    <li>Wednesday: Broken - Swap Case</li>
+    <li>Thursday: Broken - Array's and Reference(In prep for setState/immutability)</li>
+    <li>Friday: None</li>
   </ul>
 
 ### Week 2
 <ul>
-  <li>Day 1: This and Context(In prep for props/binding(Teaching notes in file))</li>
-  <li>Day 2: Bob Ross Family Tree (in prep for axios)</li>
-  <li>Day 3: Broken - Vowel Counter</li>
-  <li>Day 4: Cart - class setup/Remove From Cart</li>
-  <li>Day 5: None</li>
+  <li>Monday: This and Context(In prep for props/binding(Teaching notes in file))</li>
+  <li>Tuesday: Bob Ross Family Tree (in prep for axios)</li>
+  <li>Wednesday: Broken - Vowel Counter</li>
+  <li>Thursday: Skip Toy problem in favor of showing how to connect react and node.</li>
+  <li>Friday: None</li>
 </ul>
 
 ### Week 3
 <ul>
-  <li>Day 1: None</li>
-  <li>Day 2: Cart - Calculate Total</li>
-  <li>Day 3: Cart - Update Quantity</li>
-  <li>Day 4: Broken - Largest Even</li>
-  <li>Day 5: None</li>
+  <li>Monday: None</li>
+  <li>Tuesday: Cart - class setup/Remove From Cart</li>
+  <li>Wednesday: Cart - Update Quantity/Calculate Total</li>
+  <li>Thursday: Broken - Largest Even</li>
+  <li>Friday: None</li>
 </ul>
 
 ### Week 4
 <ul>
-  <li>Day 1: Object.Assign(In prep for Redux)</li>
-  <li>Day 2: Cart - Add to Cart</li>
-  <li>Day 3: Average Finder</li>
-  <li>Day 4: Broken - Bus Tracker</li>
-  <li>Day 5: None</li>
+  <li>Monday: Object.Assign(In prep for Redux)</li>
+  <li>Tuesday: Cart - Add to Cart</li>
+  <li>Wednesday: Average Finder</li>
+  <li>Thursday: Broken - Bus Tracker</li>
+  <li>Friday: None</li>
 </ul>
 
 ### Week 5
 <ul>
-  <li>Day 1: HTML Adobe(In prep for Media Queries)</li>
-  <li>Day 2: Palindrome</li>
-  <li>Day 3: Letter Frequency</li>
-  <li>Day 4: None (Do the wireframe project planning for all day review)</li>
-  <li>Day 5: None</li>
+  <li>Monday: HTML Adobe(In prep for Media Queries)</li>
+  <li>Tuesday: Palindrome</li>
+  <li>Wednesday: Letter Frequency</li>
+  <li>Thursday: None (Do the wireframe project planning for all day review)</li>
+  <li>Friday: None</li>
 </ul>
 
 ## Problem Solving
