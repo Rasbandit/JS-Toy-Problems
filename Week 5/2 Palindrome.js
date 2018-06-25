@@ -8,5 +8,5 @@
 // 'party trap' returns true
 
 // Extra Bonus
-// Have it the function be case insensitive
-// Have it ignore are non alphabetic characters ' " ! ? ,
+// Have the function be case insensitive
+// Have it ignore non alphabetic characters ' " ! ? ,

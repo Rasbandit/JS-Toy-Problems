@@ -9,13 +9,11 @@
 // Bob Ross -> {b: 2, o: 2, r: 1, s: 2}
 // taco cat -> {t: 2, a: 2, c: 2, o: 1}
 
-
-
 // Bonus Challenge
 // Alter the function so it instead takes in two strings.
 // We want to see if we rearrange the letters of the first string can we enough letters to make the second string.
 // If that is possible return true, if it is not return false.
 
-//('Bob Ross', 'bos ros') -> true
-//('Bob Ross', 'boss ross') -> false
-//('Bob Ross', 'tim allen') -> false
+// ('Bob Ross', 'bos ros') -> true
+// ('Bob Ross', 'boss ross') -> false
+// ('Bob Ross', 'tim allen') -> false

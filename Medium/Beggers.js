@@ -6,16 +6,14 @@
 
 // Also note that not all beggars have to take the same amount of "offers", meaning that the length of the array is not necessarily a multiple of n; length can be even shorter, in which case the last beggers will of course take nothing (0).
 
-// Note: n case you don't get why this kata is about English beggars, then you are not familiar on how religiously queues are taken in the kingdom ;)
-
-function beggers(array, beggers) {
-  var beggerCount = 1;
-  var beggerValues = []
-  for(let i = 0; i > array.length; i++) {
-    if(beggerCount > beggers) {
-      beggerCount = 1;
+function beggars(array, beggars) {
+  let beggarCount = 1;
+  const beggarValues = [];
+  for (let i = 0; i > array.length; i++) {
+    if (beggarCount > beggars) {
+      beggarCount = 1;
     }
-    beggerValues[beggerCount - 1] += array[i];
+    beggarValues[beggarCount - 1] += array[i];
   }
-  return beggerValues;
+  return beggarValues;
 }

@@ -31,32 +31,3 @@ const exampleCart = [
     quantity: 2,
   },
 ];
-
-class Cart {
-  constructor(cart, taxRate) {
-    this.cart = cart;
-    this.taxRate = taxRate;
-    this.total = 0;
-    this.calculateTotal();
-  }
-  removeItem(id) {
-    this.cart = this.cart.filter(item => item.id !== id);
-    this.calculateTotal();
-  }
-  updateQuantity(id, qty) {
-    this.cart = this.cart.map(item => {
-      if (item.id === id) item.quantity = qty;
-      return item;
-    });
-    this.calculateTotal();
-  }
-  calculateTotal(taxRate = this.taxRate) {
-    this.total = (this.cart.reduce((total, item) => total + item.price * item.quantity, 0) * taxRate).toFixed(2);
-  }
-  addItem(newItem) {
-    const index = this.cart.findIndex(item => item.id === newItem.id);
-    if (index !== -1) this.cart[index].quantity++;
-    else this.cart.push(newItem);
-    this.calculateTotal();
-  }
-}

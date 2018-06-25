@@ -1,4 +1,4 @@
-let person = {
+const person = {
   firstName: 'Bob',
   lastName: 'Ross',
   age: '54',
@@ -15,32 +15,38 @@ let person = {
           lastName: 'Ross',
           age: '9',
           favoriteThings: ['Rain Dancing', 'Drawing'],
-          birthday: function () {
+          birthday() {
             return this.age++;
           },
-          greet: function (greeter) {
-            return `Hello ${greeter}, My name is ${this.firstName} ${this.lastName}. do you like ${this.favoriteThings[0]}?`
-          }
+          greet(greeter) {
+            return `Hello ${greeter}, My name is ${this.firstName} ${this.lastName}. do you like ${
+              this.favoriteThings[0]
+            }?`;
+          },
         },
         {
           firstName: 'Doug',
           lastName: 'Ross',
           age: '11',
           favoriteThings: ['Puddle Splashing', 'Getting Jiggy'],
-          birthday: function () {
+          birthday() {
             return this.age++;
           },
-          greet: function (greeter) {
-            return `Hello ${greeter}, My name is ${this.firstName} ${this.lastName}. do you like ${this.favoriteThings[0]}?`
-          }
-        }
+          greet(greeter) {
+            return `Hello ${greeter}, My name is ${this.firstName} ${this.lastName}. do you like ${
+              this.favoriteThings[0]
+            }?`;
+          },
+        },
       ],
-      birthday: function () {
+      birthday() {
         return this.age++;
       },
-      greet: function (greeter) {
-        return `Hello ${greeter}, My name is ${this.firstName} ${this.lastName}. do you like ${this.favoriteThings[0]}?`
-      }
+      greet(greeter) {
+        return `Hello ${greeter}, My name is ${this.firstName} ${this.lastName}. do you like ${
+          this.favoriteThings[0]
+        }?`;
+      },
     },
     {
       firstName: 'Steve',
@@ -48,21 +54,23 @@ let person = {
       age: '35',
       favoriteThings: ['Yodeling', 'Kareoke'],
       children: [],
-      birthday: function () {
+      birthday() {
         return this.age++;
       },
-      greet: function (greeter) {
-        return `Hello ${greeter}, My name is ${this.firstName} ${this.lastName}. do you like ${this.favoriteThings[0]}?`
-      }
-    }
+      greet(greeter) {
+        return `Hello ${greeter}, My name is ${this.firstName} ${this.lastName}. do you like ${
+          this.favoriteThings[0]
+        }?`;
+      },
+    },
   ],
-  birthday: function () {
+  birthday() {
     return this.age++;
   },
-  greet: function (greeter) {
-    return `Hello ${greeter}, My name is ${this.firstName} ${this.lastName}. do you like ${this.favoriteThings[0]}?`
-  }
-}
+  greet(greeter) {
+    return `Hello ${greeter}, My name is ${this.firstName} ${this.lastName}. do you like ${this.favoriteThings[0]}?`;
+  },
+};
 
 // Access 'Happy accidents' from Bob's favorite things.
 
@@ -77,3 +85,7 @@ let person = {
 // Access 'Rain Dancing' from Todd Ross' favorite things.
 
 // Run Doug Ross' Greet method.
+
+// BONUS HARD MODE
+
+// redo all the above items but use nested destructuring to access the items.

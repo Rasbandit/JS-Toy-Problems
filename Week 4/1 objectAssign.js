@@ -17,4 +17,6 @@ const cat = { name: 'Dr. Mittens', favoriteFood: 'fish flesh' };
 // Once you use Object.assign to make a copy try using it to also combine the properties of multiple object.
 // It can also be used to update a property at the same time as combining things.
 
+// Bonus Hard Mode
+
 // Take a look at the object spread operator. It too can do the same functionality as Object.assign.

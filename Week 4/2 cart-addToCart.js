@@ -4,3 +4,6 @@
 // Before we can just add the item to the cart we need to check if that item already exists.
 // If it does exist just increase the quantity by one, if it does not add it into the cart array.
 // Recalculate the total.
+
+// Bonus
+// Use the findIndex Method
