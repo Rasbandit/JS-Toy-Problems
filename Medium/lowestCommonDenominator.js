@@ -13,58 +13,62 @@ const fractionsTwo = [[3, 7], [8, 12], [7, 45]];
 
 function LCD(fractions) {
   let largestDenominator = 0;
-  fractions.forEach((fraction) => {
-    if(fraction[1] > largestDenominator) {
-      largestDenominator = fraction[1];
+  fractions.forEach(fraction => {
+    const [numerator, denominator] = fraction;
+    if (denominator > largestDenominator) {
+      largestDenominator = denominator;
     }
   });
   let denominatorsAreDivisibleByCounter = 0;
-  let currentLcdToCheck = largestDenominator;
+  let currentLCDToCheck = largestDenominator;
   const numberOfFractions = fractions.length;
   do {
     denominatorsAreDivisibleByCounter = 0;
-    fractions.forEach((fraction) => {
+    fractions.forEach(fraction => {
       const fractionsDenominator = fraction[1];
-      if (currentLcdToCheck % fractionsDenominator === 0) {
+      if (currentLCDToCheck % fractionsDenominator === 0) {
         denominatorsAreDivisibleByCounter += 1;
       }
     });
-    if(denominatorsAreDivisibleByCounter !== numberOfFractions) {
+    if (denominatorsAreDivisibleByCounter !== numberOfFractions) {
       denominatorsAreDivisibleByCounter = 0;
-      currentLcdToCheck += largestDenominator;
+      currentLCDToCheck += largestDenominator;
     }
   } while (denominatorsAreDivisibleByCounter !== numberOfFractions);
-  return fractions.map((fraction) => {
-    const numberToMultiplyBy = currentLcdToCheck / fraction[1];
+
+  const commonDenominatorFractions = fractions.map(fraction => {
+    const numberToMultiplyBy = currentLCDToCheck / fraction[1];
     fraction[0] = numberToMultiplyBy * fraction[0];
     fraction[1] = numberToMultiplyBy * fraction[1];
     return fraction;
   });
+
+  return commonDenominatorFractions;
 }
 const x = LCD(fractionsOne);
 x;
 const y = LCD(fractionsTwo);
 y;
 
-// function lowestCommonDenominator (fractions) {
-//   var foundDenominator = false;
-//   for (var i = 1; foundDenominator === false; i++) {
-//     var tracker = 0;
-//     for (var j = 0; j < fractions.length; j++) {
-//       if(i % fractions[j][1] === 0) {
-//         tracker++;
-//       }
-//     }
-//     if (tracker === fractions.length) {
-//       foundDenominator = true;
-//       for (var k = 0; k < fractions.length; k++) {
-//         fractions[k][0] = (i / fractions[k][1]) * fractions[k][0];
-//         fractions[k][1] = (i / fractions[k][1]) * fractions[k][1];
-//       }
-//       return  fractions
-//     }
-//   }
-// }
+function lowestCommonDenominator(fractions) {
+  let foundDenominator = false;
+  for (let i = 1; foundDenominator === false; i++) {
+    let tracker = 0;
+    for (let j = 0; j < fractions.length; j++) {
+      if (i % fractions[j][1] === 0) {
+        tracker++;
+      }
+    }
+    if (tracker === fractions.length) {
+      foundDenominator = true;
+      for (let k = 0; k < fractions.length; k++) {
+        fractions[k][0] = i / fractions[k][1] * fractions[k][0];
+        fractions[k][1] = i / fractions[k][1] * fractions[k][1];
+      }
+      return fractions;
+    }
+  }
+}
 
-// lowestCommonDenominator(fractions);
-// lowestCommonDenominator(fractionsTwo)
+lowestCommonDenominator(fractions);
+lowestCommonDenominator(fractionsTwo);

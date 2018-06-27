@@ -6,27 +6,14 @@
 // 5 factorial is written as 5!
 // 5! = 1x2x3x4x5 = 120
 
-
-function factorial(num) {
-  let total = 1;
-  for(let i = 0; i < num; i += 1) {
-    total = i * total;
-  }
-  return total;
-}
-
 console.log(factorial(5));
 
-
-
-// fixed version
-function factorialFixed(num) {
-  let total = 1;
-  for (let i = 1; i <= num; i += 1) {
-    total *= i;
+var factorial = function (num) {
+  let toatl = 0;
+  for (let i = 0; i < number; i += 1) {
+    return total += i;
   }
-  return total;
+
 }
 
-console.log(factorialFixed(5));
-console.log(factorialFixed(6));
+

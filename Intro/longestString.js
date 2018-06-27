@@ -1,5 +1,5 @@
 // Toy Problem to find the longest string in an array of strings
-// Advanced find the sring with the most vowels
+// Advanced find the string with the most vowels
 // Advanced Advanced find the string with the most number of unique characters
 
 const strings = [
@@ -8,5 +8,6 @@ const strings = [
   'walrus viking',
   'aztec horse',
   'KGB Donkey',
-  'Supream leader Snake'
+  'Supream leader Snake',
+  'God Ross'
 ];
