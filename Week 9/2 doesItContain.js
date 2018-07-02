@@ -6,6 +6,7 @@
 
 // Advanced
 // also return the index where each item can be found.
+// Make it into a prototype on the string.
 
 function twoString(str, str2) {
   let counter = 0;
