@@ -12,6 +12,7 @@ Make a list of desired features and color code by whether the feature is MVP or 
 
 ## 2. Sketch Component Tree
 Draw out a basic layout of the component tree
+<br />
 <img src='./images/ComponentTree.jpg' width='500px'/>
 
 
