@@ -1,7 +1,7 @@
 # Fullstack Review Prep
 
 ## Introduction
-Instead of the standard toy problem/review, today a mentor will go over the planning process for a full-stack application, namely the application that will be built during the lectur later on in the day. This exercise is important because it is one of the few opportunities that we have to discuss the importance of solid planning when building a full-stack application, and it is also the last opportunity to go in depth on planning strategies before the cohort will start their personal projects.
+Instead of the standard toy problem/review, today a mentor will go over the planning process for a full-stack application from 9:00 to 10:00, namely the application that will be built during the rest of the day with an instructor. This exercise is important because it is one of the few opportunities that we have to discuss the importance of solid planning when building a full-stack application, and it is also the last opportunity to go in depth on planning strategies before the cohort will start their personal projects.
 
 The full-stack application that will be built later in the day is a  simple bank application that allows a user to log in and view their account information. There are only two views involved, but this example application will cover nearly every piece of technology that has been taught so far including: React, react-router, redux, express, massive, postgreSQL, and auth.
 
