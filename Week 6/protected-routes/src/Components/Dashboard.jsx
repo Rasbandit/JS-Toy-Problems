@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Dashboard = props => {
-  return <div>Welcome to the private data</div>;
+  return <h1>Welcome to the private data</h1>;
 };
 
 export default Dashboard;

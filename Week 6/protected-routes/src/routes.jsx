@@ -12,7 +12,7 @@ export default class Routes extends Component {
   render() {
     return (
       <HashRouter>
-        <div>
+        <main>
           <nav>
             <Link to="/">Home</Link>
             <Link to="/dashboard">Dashboard</Link>
@@ -23,7 +23,7 @@ export default class Routes extends Component {
             <Route path="/dashboard" component={Dashboard} />
             <Route path="/contact" component={Contact} />
           </Switch>
-        </div>
+        </main>
       </HashRouter>
     );
   }
