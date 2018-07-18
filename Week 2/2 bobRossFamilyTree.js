@@ -16,7 +16,7 @@ const person = {
           age: '9',
           favoriteThings: ['Rain Dancing', 'Drawing'],
           birthday() {
-            return this.age++;
+            return ++this.age;
           },
           greet(greeter) {
             return `Hello ${greeter}, My name is ${this.firstName} ${this.lastName}. do you like ${
@@ -30,7 +30,7 @@ const person = {
           age: '11',
           favoriteThings: ['Puddle Splashing', 'Getting Jiggy'],
           birthday() {
-            return this.age++;
+            return ++this.age;
           },
           greet(greeter) {
             return `Hello ${greeter}, My name is ${this.firstName} ${this.lastName}. do you like ${
@@ -40,7 +40,7 @@ const person = {
         },
       ],
       birthday() {
-        return this.age++;
+        return ++this.age;
       },
       greet(greeter) {
         return `Hello ${greeter}, My name is ${this.firstName} ${this.lastName}. do you like ${
@@ -55,7 +55,7 @@ const person = {
       favoriteThings: ['Yodeling', 'Kareoke'],
       children: [],
       birthday() {
-        return this.age++;
+        return ++this.age;
       },
       greet(greeter) {
         return `Hello ${greeter}, My name is ${this.firstName} ${this.lastName}. do you like ${
@@ -65,7 +65,7 @@ const person = {
     },
   ],
   birthday() {
-    return this.age++;
+    return ++this.age;
   },
   greet(greeter) {
     return `Hello ${greeter}, My name is ${this.firstName} ${this.lastName}. do you like ${this.favoriteThings[0]}?`;

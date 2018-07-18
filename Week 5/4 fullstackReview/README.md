@@ -36,18 +36,18 @@ Explain that it is a good idea to plan ahead of time what data will be stored on
 `user: { id, auth_id, user_name, user_pic }`
 
 ## 5. Plan Endpoints
-Endpoints should be planned with the following information: 
+Endpoints should be planned with the following information:
 - The verb: GET, POST, PUT, PATCH, DELETE, etc.
 - The path: ie: /api/getstuff
-- The items that the endpoint will receive and what object that data will be sent on. For example: 
-  * __req.body:__ name, birthday, email. 
-  * __req.params:__ productID. 
-  * __req.query:__ min-price, max-price. 
+- The items that the endpoint will receive and what object that data will be sent on. For example:
+  * __req.body:__ name, birthday, email.
+  * __req.params:__ productID.
+  * __req.query:__ min-price, max-price.
   * __req.session.user:__ userID.
-- What the endpoint will send back ie: 
+- What the endpoint will send back ie:
   * Status(200)
   * Array of products
-  
+
 ### Endpoints for the full-stack review
 #### GET: /auth/callback
 - Receive: Code from req.query, access token, user data

@@ -47,9 +47,9 @@ With the students who don't struggle with the toy problems they can just work on
 ### Week 5
 <ul>
   <li>Monday: HTML Adobe(In prep for Media Queries)</li>
-  <li>Tuesday: Palindrome</li>
-  <li>Wednesday: Letter Frequency</li>
-  <li>Thursday: None (Do the wire frame project planning for all day review)</li>
+  <li>Tuesday: Letter Frequency</li>
+  <li>Wednesday: Async Await</li>
+  <li>Thursday: Wire frame project planning for all day review</li>
   <li>Friday: None</li>
 </ul>
 
