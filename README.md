@@ -30,27 +30,37 @@ With the students who don't struggle with the toy problems they can just work on
 <ul>
   <li>Monday: None</li>
   <li>Tuesday: Cart - class setup/Remove From Cart</li>
-  <li>Wednesday: Cart - Update Quantity/Calculate Total</li>
-  <li>Thursday: Broken - Largest Even</li>
+  <li>Wednesday: Cart - Calculate Total</li>
+  <li>Thursday: Broken - Vowel Counter</li>
   <li>Friday: None</li>
 </ul>
 
 ### Week 4
 <ul>
   <li>Monday: Object.Assign(In prep for Redux)</li>
-  <li>Tuesday: Cart - Add to Cart</li>
+  <li>Tuesday: Cart - Add to Cart/Update Quantity</li>
   <li>Wednesday: HTML Facebook Post</li>
-  <li>Thursday: Broken - Vowel Counter</li>
+  <li>Thursday: Broken - Largest Even</li>
   <li>Friday: None</li>
 </ul>
 
 ### Week 5
 <ul>
   <li>Monday: HTML Adobe(In prep for Media Queries)</li>
-  <li>Tuesday: Letter Frequency</li>
-  <li>Wednesday: Async Await</li>
+  <li>Tuesday: Async Await</li>
+  <li>Wednesday: Letter Frequency</li>
   <li>Thursday: Wire frame project planning for all day review</li>
   <li>Friday: None</li>
+</ul>
+
+### Week 6
+<p>These are some additional topics that could really help with personal projects so try and fit these in.</p>
+<ul>
+  <li>Monday: SQL Scheema</li>
+  <li>Tuesday: Protected Routes</li>
+  <li>Wednesday: NODE_ENV Auth bypass</li>
+  <li>Thursday: </li>
+  <li>Friday:</li>
 </ul>
 
 ### Week 8
