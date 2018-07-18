@@ -1,5 +1,7 @@
 import React from 'react';
 
-export default function ProtectedRoute(props) => {
-  props.
-}
+const ProtectedRoute = props => {
+  return <div>ProtectedRoute component</div>;
+};
+
+export default ProtectedRoute;
