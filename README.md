@@ -54,6 +54,7 @@ With the students who don't struggle with the toy problems they can just work on
 </ul>
 
 ### Week 6
+#### Experimentational
 <p>These are some additional topics that could really help with personal projects so try and fit these in.</p>
 <ul>
   <li>Monday: SQL Scheema</li>

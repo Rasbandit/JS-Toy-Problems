@@ -7,7 +7,7 @@
 
 // We are now 3 .then's deep and the code is staring to look crazy and hard to manage.
 // We are going to convert this code into what is called an async function that will simplify this a lot.
-// First comment out your code. Then lets take look at what exactly an axios request is by console.loging an axios request. It should look like this:
+// First comment out your code. Then lets take a look at what exactly an axios request is by console.loging an axios request. It should look like this:
 
 // console.log(axios.get(URL)).
 
@@ -21,7 +21,9 @@
 // Instead we are going to make an async function. Make a new function, but before the word function, write the word async
 // Move the starWarsDude line into the function, and Write the word await after the equal but before the axios. It should look something like this:
 
-// var starWarsDude = await axios.get(url)
+// async function starWars(){
+//   var starWarsDude = await axios.get(url)
+// }
 
 // Now console.log(starWarsDude)
 
