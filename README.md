@@ -53,7 +53,7 @@ With the students who don't struggle with the toy problems they can just work on
   <li>Friday: None</li>
 </ul>
 
-### Week 6
+### Week 6 (work in progress)
 #### Experimentational
 <p>These are some additional topics that could really help with personal projects so try and fit these in.</p>
 <ul>
@@ -64,7 +64,7 @@ With the students who don't struggle with the toy problems they can just work on
   <li>Friday:</li>
 </ul>
 
-### Week 8
+### Week 8 (work in progress)
 <ul>
   <li>Monday: Lowest Common Denominator</li>
   <li>Tuesday: Primes Summed</li>
@@ -73,7 +73,7 @@ With the students who don't struggle with the toy problems they can just work on
   <li>Friday: Competency day</li>
 </ul>
 
-### Week 9
+### Week 9 (work in progress)
 <ul>
   <li>Monday: Fibonacci Recursion</li>
   <li>Tuesday: Does It Contain</li>
