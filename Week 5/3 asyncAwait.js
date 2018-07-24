@@ -50,11 +50,11 @@ const axios = require('axios');
 
 async function swapi(num) {
   const { data: originalPerson } = await axios.get(`https://swapi.co/api/people/${num}`);
-  console.log(originalPerson.name);
   const { data: planet } = await axios.get(originalPerson.homeworld);
-  console.log(planet.name);
   const { data: neighbor } = await axios.get(planet.residents[Math.floor(Math.random() * planet.residents.length)]);
-  console.log(neighbor.name);
+  return neighbor;
 }
 
-swapi(Math.ceil(Math.random() * 50));
+swapi(Math.ceil(Math.random() * 50)).then(neighbor => {
+  console.log(neighbor);
+});
