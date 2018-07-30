@@ -57,19 +57,19 @@ With the students who don't struggle with the toy problems they can just work on
 #### Experimentational
 <p>These are some additional topics that could really help with personal projects so try and fit these in.</p>
 <ul>
-  <li>Monday: SQL Scheema</li>
-  <li>Tuesday: Protected Routes</li>
-  <li>Wednesday: NODE_ENV Auth bypass</li>
-  <li>Thursday: </li>
+  <li>Monday: None</li>
+  <li>Tuesday: SQL Scheema</li>
+  <li>Wednesday: Protected Routes</li>
+  <li>Thursday: NODE_ENV Auth bypass</li>
   <li>Friday:</li>
 </ul>
 
 ### Week 8 (work in progress)
 <ul>
-  <li>Monday: Lowest Common Denominator</li>
+  <li>Monday: Randomize Array</li>
   <li>Tuesday: Primes Summed</li>
-  <li>Wednesday: Randomize Array</li>
-  <li>Thursday: Ransom Note</li>
+  <li>Wednesday: Ransom Note</li>
+  <li>Thursday: Lowest Common Denominator</li>
   <li>Friday: Competency day</li>
 </ul>
 
