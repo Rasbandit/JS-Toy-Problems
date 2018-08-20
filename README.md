@@ -53,17 +53,6 @@ With the students who don't struggle with the toy problems they can just work on
   <li>Friday: None</li>
 </ul>
 
-### Week 6 (work in progress)
-#### Experimentational
-<p>These are some additional topics that could really help with personal projects so try and fit these in.</p>
-<ul>
-  <li>Monday: None</li>
-  <li>Tuesday: SQL Scheema</li>
-  <li>Wednesday: Protected Routes</li>
-  <li>Thursday: NODE_ENV Auth bypass</li>
-  <li>Friday:</li>
-</ul>
-
 ### Week 8 (work in progress)
 <ul>
   <li>Monday: Randomize Array</li>
@@ -88,17 +77,15 @@ Below are steps that should be used for teaching how to solve toy problems. It i
 
 // Step 1: Clarify - Understand the question
 
-// Step 2: Create sample data
+// Step 2: Create multiple sample data
 
-// Step 3: Solve Sample Data
+// Step 3: Solve your Sample Data
 
-// Step 4: Function Signature
+// Step 4: Break down the problem into its smallest pieces and how you solve the mini the problems.
 
-// Step 5: List code constructs
+// Step 5: Pseudo Code
 
-// Step 6: Pseudo Code
-
-// Step 7: Solve
+// Step 6: Code
 
 ## Broken Problems
 
