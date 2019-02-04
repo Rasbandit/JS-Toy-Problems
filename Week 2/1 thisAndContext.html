@@ -56,18 +56,17 @@
     // Step 1
     // Run the greet method on the person object.
     // Pay close attention to what the console log of 'this' prints.
-    person.greet()
 
 
     // Step 2
     // Now create a variable called fn and save person.greet to it.
     // Run the fn function and notice what 'this' is in the console.
-    var x = person.greet
 
+    
     // Step 3
     // If we pass person.greet as a parameter to a function and run
     // it we will see the same issue.
-
+    // Run the funciton bellow passing in person.greet as the argument
 
     function callerBack(greet, name) {
       console.log(this)
@@ -91,14 +90,11 @@
       },
       props: {
         job: 'fixer',
-        friends: ['Al Borland', 'Wilson Wilson Jr.'],
-        greet: function (greeter) {
-          //Notice we will be checking what 'this' is every time we run the function
-          console.log(this)
-          return `Hello ${greeter}, My name is ${this.state.name}. do you like ${this.state.favoriteThings[0]}?`
-        }
+        friends: ['Al Borland', 'Wilson Wilson Jr.']
       },
     }
+    
+    //personTwo.props = 
 
     // Run personTwo.props.greet and notice what 'this' is.
     // Notice 'this' still does not see state! But it does see the job and
@@ -110,7 +106,6 @@
     // look up '.bind' and try and redo steps 2, 3 and 4 but use your new found
     // knowledge about '.bind' to make sure it remembers what 'this' is.
 
-    var boundFunction = person.greet.bind(person);
 
   </script>
 </body>
