@@ -34,7 +34,7 @@
     // and can not be rebound.
     // On step 4 when we set it as a property of the props object 'this' becomes the prop object, not
     // personTwo
-    
+
     // Notes on this toy problem:
     // This may be the first time students are exposed to the `this` keyword, so take it slow and take time for it to sink in. 
     // They may also not be used to typing code in the browser console. 
@@ -46,10 +46,10 @@
         favoriteThings: ['Happy little Trees', 'Happy Accidents', 'Groves', 'Mountains'],
         age: '54',
       },
-      greet: function (greeter, guy, dude) {
+      greet: function () {
         //Notice we will be checking what 'this' is every time we run the function
         console.log(this)
-        return `Hello ${greeter} ${guy} ${dude}, My name is ${this.state.name}. do you like ${this.state.favoriteThings[0]}?`
+        return `Hello, My name is ${this.state.name}. do you like ${this.state.favoriteThings[0]}?`
       }
     }
 
@@ -62,11 +62,11 @@
     // Now create a variable called fn and save person.greet to it.
     // Run the fn function and notice what 'this' is in the console.
 
-    
+
     // Step 3
     // If we pass person.greet as a parameter to a function and run
     // it we will see the same issue.
-    // Run the funciton bellow passing in person.greet as the argument
+
 
     function callerBack(greet, name) {
       console.log(this)
@@ -90,11 +90,14 @@
       },
       props: {
         job: 'fixer',
-        friends: ['Al Borland', 'Wilson Wilson Jr.']
+        friends: ['Al Borland', 'Wilson Wilson Jr.'],
+        greet: function () {
+          //Notice we will be checking what 'this' is every time we run the function
+          console.log(this)
+          return `Hello, My name is ${this.state.name}. do you like ${this.state.favoriteThings[0]}?`
+        }
       },
     }
-    
-    //personTwo.props = 
 
     // Run personTwo.props.greet and notice what 'this' is.
     // Notice 'this' still does not see state! But it does see the job and
