@@ -10,18 +10,18 @@
   <ul>
     <li>Monday: none</li>
     <li>Tuesday: Getting a Repo up to github</li>
-    <li>Wednesday: Broken - Swap Case</li>
-    <li>Thursday: Broken - Array's and Reference(In prep for setState/immutability)</li>
-    <li>Friday: None</li>
+    <li>Wednesday: </li>
+    <li>Thursday: </li>
+    <li>Friday: </li>
   </ul>
 
 ### Week 2
 <ul>
-  <li>Monday: This and Context(In prep for props/binding(Teaching notes in file))</li>
-  <li>Tuesday: Bob Ross Family Tree (in prep for axios)</li>
-  <li>Wednesday: Array cardio</li>
-  <li>Thursday: Skip Toy problem in favor of showing how to connect react and node.</li>
-  <li>Friday: None</li>
+  <li>Monday: Debugging Methodology</li>
+  <li>Tuesday: </li>
+  <li>Wednesday: </li>
+  <li>Thursday: </li>
+  <li>Friday: </li>
 </ul>
 
 ### Week 3
