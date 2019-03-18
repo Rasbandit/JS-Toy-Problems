@@ -1,17 +1,15 @@
-# Morning Toy Problems
-We have mapped a toy problem to every day that has a lecture. The toy problems are chosen to match the days content to make the lecture go smoother and clarify challenging topics and teach new code tools.
+# Morning Exercises
+
 
 ## Format
-We used to give the students 15 minutes or so to work on the problem alone but we found for the students who are struggling it ended up being wasted time for them and caused frustration more than anything. For these students we recommend starting right at 9 and going through the problem solving steps with them to help them learn how to think through the problems. Make sure to read and get familiar with the problem solving/trouble shooting steps below.
 
-With the students who don't struggle with the toy problems they can just work on their own and try out the challenge mode associated with each problem.
 
-## Toy Problems
+## Scheudle
 
 ### Week 1
   <ul>
     <li>Monday: none</li>
-    <li>Tuesday: 45 Minute Fizz Buzz With '8 step Walk through'</li>
+    <li>Tuesday: Getting a Repo up to github</li>
     <li>Wednesday: Broken - Swap Case</li>
     <li>Thursday: Broken - Array's and Reference(In prep for setState/immutability)</li>
     <li>Friday: None</li>
