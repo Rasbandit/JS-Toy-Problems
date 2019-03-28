@@ -11,22 +11,20 @@
 //	snakeCase: "hey_guys",
 //	kababCase: "hey-guys",
 //	original: "Hey Guys"
-//}
-
+// }
 
 // To todd: this is optional to tone down the difficulty if the structure is wierd
 function caseConverter(string) {
-	let camelCase;
-	let snakeCase;
-	let kababCase;
-	return {
-		camelCase,
-		snakeCase,
-		kababCase,
-		original: string
-	}
+  let camelCase;
+  let snakeCase;
+  let kababCase;
+  return {
+    camelCase,
+    snakeCase,
+    kababCase,
+    original: string,
+  };
 }
-
 
 // Challange mode - Use the .replace string method and regex
 // (regular expressions) for each case to handle some of the changes.
