@@ -85,7 +85,3 @@ const person = {
 // Access 'Rain Dancing' from Todd Ross' favorite things.
 
 // Run Doug Ross' Greet method.
-
-// BONUS HARD MODE
-
-// redo all the above items but use nested destructuring to access the items.

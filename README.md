@@ -10,44 +10,62 @@
   <ul>
     <li>Monday: none</li>
     <li>Tuesday: Getting a Repo up to github</li>
-    <li>Wednesday: </li>
-    <li>Thursday: </li>
-    <li>Friday: </li>
+    <li>Wednesday: Js Review</li>
+    <li>Thursday: Vs Intro</li>
+    <li>Friday: Accessing Easy (needs to be made Jonathan)</li>
   </ul>
 
 ### Week 2
 <ul>
   <li>Monday: Debugging Methodology</li>
-  <li>Tuesday: </li>
-  <li>Wednesday: </li>
-  <li>Thursday: </li>
-  <li>Friday: </li>
+  <li>Tuesday: small vanilla js problem????? (david)</li>
+  <li>Wednesday: HTML Layout (matt)</li>
+  <li>Thursday: Review (mentor or instructor????)</li>
+  <li>Friday: Skill Check Review</li>
 </ul>
 
 ### Week 3
 <ul>
-  <li>Monday: None</li>
-  <li>Tuesday: Cart - class setup/Remove From Cart</li>
-  <li>Wednesday: Cart - Calculate Total</li>
-  <li>Thursday: Broken - Vowel Counter</li>
-  <li>Friday: None</li>
+  <li>Monday: Array Cardio</li>
+  <li>Tuesday: This and context (give them 15-20 minutes to try it out)</li>
+  <li>Wednesday: React Drills, but they're broken 🤕(do this the whole time with them)(jonathan)</li>
+  <li>Thursday: bob ross family tree</li>
+  <li>Friday: Array Cardio take two (Matt)</li>
 </ul>
 
 ### Week 4
 <ul>
-  <li>Monday: Object.Assign(In prep for Redux)</li>
-  <li>Tuesday: Cart - Add to Cart/Update Quantity</li>
-  <li>Wednesday: HTML Facebook Post</li>
-  <li>Thursday: Broken - Largest Even</li>
+  <li>Monday: Broken Vowel Counter</li>
+  <li>Tuesday: HTML Layout</li>
+  <li>Wednesday: common errors in react/node</li>
+  <li>Thursday: ???????????</li>
   <li>Friday: None</li>
 </ul>
 
 ### Week 5
 <ul>
-  <li>Monday: HTML Adobe(In prep for Media Queries)</li>
-  <li>Tuesday: Letter Frequency</li>
-  <li>Wednesday: Async Await</li>
-  <li>Thursday: Wire frame project planning for all day review</li>
+  <li>Monday: </li>
+  <li>Tuesday: </li>
+  <li>Wednesday: </li>
+  <li>Thursday: </li>
+  <li>Friday: None</li>
+</ul>
+
+### Week 6
+<ul>
+  <li>Monday: </li>
+  <li>Tuesday: </li>
+  <li>Wednesday: </li>
+  <li>Thursday: </li>
+  <li>Friday: None</li>
+</ul>
+
+### Week 7
+<ul>
+  <li>Monday: </li>
+  <li>Tuesday: </li>
+  <li>Wednesday: </li>
+  <li>Thursday: </li>
   <li>Friday: None</li>
 </ul>
 

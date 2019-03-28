@@ -37,6 +37,7 @@ const people = [
   { name: 'Irv', year: 1970 },
   { name: 'Lux', year: 2015 },
 ];
+
 // .some()
 // 5. is at least one person 19 or older?
 // .every()
