@@ -1,17 +1,12 @@
 # Instructor Guide
 
-## Links
+## Purpose
 
-- https://github.com/Rasbandit/vs-code-intro
+To help students understand how accessing objects works and having data nested inside other data. Also important to hit on the errors that will inevitably come up when working with objects.
 
-## Synopsis
+## Lecture notes
 
-It would be a good idea to watch all the videos under the Keyboard Cardio section in the repo called `vs-code-intro`, as that is all the content that you should cover in the exercise. Also, slacking out the repo is a good idea.
+I recommend giving students 20-30 minutes time to practice this before the exercise leader goes over it with them. When doing this exercise it is important that the leader messes up a fair number of times. An issue with experience is we often do it right so we don't run into errors and then the students think they are bad programmers if they have errors. errors you should be sure to run into are:
 
-The sooner we introduce keyboard shortcuts the sooner the students can start go get these into their daily workflow. We can also catch bad habits sooner and hopefully give them good ones.
-
-Emphasize that is is entirely possible to do every thing you need to in vscode with a keyboard shortcut. You can build muscle memory for the keyboard, but you can't for the mouse.
-
-## Outline
-
-I would just clone the `vs-code-into` repo and go over all the markdown files and just show how each shortcut works.
+- `undefined`
+- `cannot read property x of undefined`
