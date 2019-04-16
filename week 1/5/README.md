@@ -1,17 +1,15 @@
 # Instructor Guide
 
-## Links
+## Goals
 
-- https://github.com/Rasbandit/vs-code-intro
+The purpose of this morning activity is to help students become comfortable with accessing variables found in nested structures of objects and arrays using both bracket and dot notation. Students should show an increased understanding of datatypes and 
 
-## Synopsis
+## Important Note
 
-It would be a good idea to watch all the videos under the Keyboard Cardio section in the repo called `vs-code-intro`, as that is all the content that you should cover in the exercise. Also, slacking out the repo is a good idea.
+Students may finish these steps fairly quickly. The instructor should go through and clarify the following: 
 
-The sooner we introduce keyboard shortcuts the sooner the students can start go get these into their daily workflow. We can also catch bad habits sooner and hopefully give them good ones.
+- The different datatypes used
 
-Emphasize that is is entirely possible to do every thing you need to in vscode with a keyboard shortcut. You can build muscle memory for the keyboard, but you can't for the mouse.
+- The differences between bracket and dot notation
 
-## Outline
-
-I would just clone the `vs-code-into` repo and go over all the markdown files and just show how each shortcut works.
+- The primitive datatypes (i.e. Number, String, Boolean, NaN, Null, and Undefined)
