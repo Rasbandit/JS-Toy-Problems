@@ -4,6 +4,9 @@
 ## Format
 
 
+## Ideas
+ Categorize the words into dataypes, patterns, constucts, keywords, synvonomys
+
 ## Scheudle
 
 ### Week 1
@@ -12,13 +15,13 @@
     <li>Tuesday: Getting a Repo up to github</li>
     <li>Wednesday: Js Review</li>
     <li>Thursday: Vs Intro</li>
-    <li>Friday: Accessing Easy (needs to be made Jonathan)</li>
+    <li>Friday: Accessing objects Easy (needs to be made Jonathan)</li>
   </ul>
 
 ### Week 2
 <ul>
   <li>Monday: Debugging Methodology</li>
-  <li>Tuesday: small vanilla js problem????? (david)</li>
+  <li>Tuesday: small vanilla js problem????? (david)(todd review/brainstorm)</li>
   <li>Wednesday: HTML Layout (matt)</li>
   <li>Thursday: Review (mentor or instructor????)</li>
   <li>Friday: Skill Check Review</li>
@@ -30,42 +33,42 @@
   <li>Tuesday: This and context (give them 15-20 minutes to try it out)</li>
   <li>Wednesday: React Drills, but they're broken 🤕(do this the whole time with them)(jonathan)</li>
   <li>Thursday: bob ross family tree</li>
-  <li>Friday: Array Cardio take two (Matt)</li>
+  <li>Friday: spread operator (matt)</li>
 </ul>
 
 ### Week 4
 <ul>
   <li>Monday: Broken Vowel Counter</li>
   <li>Tuesday: HTML Layout</li>
-  <li>Wednesday: common errors in react/node</li>
-  <li>Thursday: ???????????</li>
+  <li>Wednesday: connecting node to react</li>
+  <li>Thursday: no db show off/Q and A</li>
   <li>Friday: None</li>
 </ul>
 
 ### Week 5
 <ul>
-  <li>Monday: </li>
-  <li>Tuesday: </li>
-  <li>Wednesday: </li>
-  <li>Thursday: </li>
+  <li>Monday: css jam pam, psudeo selectors, (Jonathan)</li>
+  <li>Tuesday: string cardio(David)</li>
+  <li>Wednesday: Broken largest even</li>
+  <li>Thursday: HTML</li>
   <li>Friday: None</li>
 </ul>
 
 ### Week 6
 <ul>
-  <li>Monday: </li>
-  <li>Tuesday: </li>
-  <li>Wednesday: </li>
-  <li>Thursday: </li>
+  <li>Monday: object.assign/spread operator for redux(David)</li>
+  <li>Tuesday: common node errors(Matt)</li>
+  <li>Wednesday: turning one array into sessesion (Jonathan)</li>
+  <li>Thursday: scheema/normalization(todd)</li>
   <li>Friday: None</li>
 </ul>
 
 ### Week 7
 <ul>
-  <li>Monday: </li>
-  <li>Tuesday: </li>
-  <li>Wednesday: </li>
-  <li>Thursday: </li>
+  <li>Monday: HTML</li>
+  <li>Tuesday: Scheema development two(todd)</li>
+  <li>Wednesday: Auth Bypass (todd)</li>
+  <li>Thursday: project planning for full stack review</li>
   <li>Friday: None</li>
 </ul>
 
