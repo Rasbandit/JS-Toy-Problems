@@ -36,6 +36,12 @@ The goal of today's toy problem is to help students learn precisely how differen
 
 ## Important Complex Selectors
 
+### - Other selectors
+
+  - Select everything (*) 
+
+  - Ignore everything except this (!important)
+
 ### - Selecting Children
 
   - Descendant Selector (space)
@@ -106,4 +112,3 @@ The goal of today's toy problem is to help students learn precisely how differen
     - lowercase
 6. text-shadow: & box-shadow:
     - x-offset, y-offset, blur, color
-7. !important
