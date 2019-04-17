@@ -25,7 +25,7 @@ key:
 <summary>Week 2</summary>
 <ul>
   <li>Monday: Debugging Methodology 👀</li>
-  <li>Tuesday: Small vanilla js problem 🤷‍</li>
+  <li>Tuesday: Fizz Buzz</li>
   <li>Wednesday: HTML Layout 👀</li>
   <li>Thursday: Review 👀</li>
   <li>Friday: Skill Check Review 👀</li>
