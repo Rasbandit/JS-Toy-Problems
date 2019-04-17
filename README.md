@@ -1,22 +1,15 @@
 # Morning Exercises
 
-
-## Format
-
-
-## Ideas
- Categorize the words into dataypes, patterns, constucts, keywords, synvonomys
-
 ## Scheudle
 
 ### Week 1
-  <ul>
-    <li>Monday: none</li>
-    <li>Tuesday: Getting a Repo up to github</li>
-    <li>Wednesday: Js Review</li>
-    <li>Thursday: Vs Intro</li>
-    <li>Friday: Accessing objects Easy (needs to be made Jonathan)</li>
-  </ul>
+<ul>
+  <li>Monday: none</li>
+  <li>Tuesday: Getting a Repo up to github</li>
+  <li>Wednesday: Js Review</li>
+  <li>Thursday: Vs Intro</li>
+  <li>Friday: Accessing objects Easy</li>
+</ul>
 
 ### Week 2
 <ul>
