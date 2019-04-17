@@ -1,71 +1,138 @@
 # Morning Exercises
 
-## Scheudle
+## Schedule
 
-### Week 1
+key:
+
+- 🤷‍: needs work
+- 📖: needs readme
+- 🤼‍: needs formatting
+- 👀: fist review pass
+- ✔️: second review pass
+
+<details>
+<summary>Week 1</summary>
 <ul>
   <li>Monday: none</li>
-  <li>Tuesday: Git Practice</li>
-  <li>Wednesday: Js Review</li>
-  <li>Thursday: Vs Intro</li>
-  <li>Friday: Nested Data Easy</li>
+  <li>Tuesday: Git Practice 👀</li>
+  <li>Wednesday: Js Review 👀</li>
+  <li>Thursday: Vs Intro 👀</li>
+  <li>Friday: Nested Data Easy 👀</li>
 </ul>
+</details>
 
-### Week 2
+<details>
+<summary>Week 2</summary>
 <ul>
-  <li>Monday: Debugging Methodology</li>
-  <li>Tuesday: Small vanilla js problem????? (david)(todd review/brainstorm)</li>
-  <li>Wednesday: HTML Layout (matt)</li>
-  <li>Thursday: Review (mentor or instructor????)</li>
-  <li>Friday: Skill Check Review</li>
+  <li>Monday: Debugging Methodology 👀</li>
+  <li>Tuesday: Small vanilla js problem 🤷‍</li>
+  <li>Wednesday: HTML Layout 👀</li>
+  <li>Thursday: Review 👀</li>
+  <li>Friday: Skill Check Review 👀</li>
 </ul>
+</details>
 
-### Week 3
+<details>
+<summary>Week 3</summary>
 <ul>
-  <li>Monday: Array Cardio</li>
-  <li>Tuesday: This and context (give them 15-20 minutes to try it out)</li>
-  <li>Wednesday: Broken React Drills</li>
-  <li>Thursday: Nested Data Hard</li>
-  <li>Friday: spread operator (matt)</li>
+  <li>Monday: Array Cardio 🤷‍</li>
+  <li>Tuesday: This and context 🤷‍</li>
+  <li>Wednesday: Broken React Drills 👀</li>
+  <li>Thursday: Nested Data Hard 👀</li>
+  <li>Friday: spread operator (matt) 🤷‍</li>
 </ul>
+</details>
 
-### Week 4
+<details>
+<summary>Week 4</summary>
 <ul>
-  <li>Monday: Broken Vowel Counter</li>
-  <li>Tuesday: HTML Layout</li>
-  <li>Wednesday: connecting node to react</li>
-  <li>Thursday: no db show off/Q and A</li>
+  <li>Monday: Broken Vowel Counter 📖</li>
+  <li>Tuesday: HTML Layout 🤷‍</li>
+  <li>Wednesday: connecting node to react 🤷‍</li>
+  <li>Thursday: no db show off/Q and A 🤷‍</li>
   <li>Friday: None</li>
 </ul>
+</details>
 
-### Week 5
+<details>
+<summary>Week 5</summary>
 <ul>
   <li>Monday: css jam pam, psudeo selectors, (Jonathan)</li>
-  <li>Tuesday: string cardio(David)</li>
-  <li>Wednesday: Broken largest even</li>
-  <li>Thursday: HTML</li>
+  <li>Tuesday: string cardio 🤼‍</li>
+  <li>Wednesday: Broken largest even 📖</li>
+  <li>Thursday: HTML 🤷‍</li>
   <li>Friday: None</li>
 </ul>
+</details>
 
-### Week 6
+<details>
+<summary>Week 6</summary>
 <ul>
-  <li>Monday: object.assign/spread operator for redux(David)</li>
-  <li>Tuesday: common node errors(Matt)</li>
-  <li>Wednesday: turning one array into sessesion (Jonathan)</li>
-  <li>Thursday: scheema/normalization(todd)</li>
+  <li>Monday: object.assign/spread operator for redux(Matt) 🤼‍ /li>
+  <li>Tuesday: common node errors(dave) 🤷‍</li>
+  <li>Wednesday: turning one array into sessions (Jonathan) 🤷‍</li>
+  <li>Thursday: schema/normalization 🤷‍</li>
   <li>Friday: None</li>
 </ul>
+</details>
 
-### Week 7
+<details>
+<summary>Week 7</summary>
 <ul>
-  <li>Monday: HTML</li>
-  <li>Tuesday: Scheema development two(todd)</li>
-  <li>Wednesday: Auth Bypass (todd)</li>
-  <li>Thursday: project planning for full stack review</li>
+  <li>Monday: HTML 🤷‍</li>
+  <li>Tuesday: Schema development two(todd) 🤷‍</li>
+  <li>Wednesday: Auth Bypass (todd) 🤷‍</li>
+  <li>Thursday: project planning for full stack review ❓</li>
   <li>Friday: None</li>
 </ul>
+</details>
 
-### Week 8 (work in progress)
+<details>
+<summary>Week 8</summary>
+<ul>
+  <li>Monday: </li>
+  <li>Tuesday: </li>
+  <li>Wednesday: </li>
+  <li>Thursday: </li>
+  <li>Friday: </li>
+</ul>
+</details>
+
+<details>
+<summary>Week 9</summary>
+<ul>
+  <li>Monday: </li>
+  <li>Tuesday: </li>
+  <li>Wednesday: </li>
+  <li>Thursday: </li>
+  <li>Friday: </li>
+</ul>
+</details>
+
+<details>
+<summary>Week 10</summary>
+<ul>
+  <li>Monday: </li>
+  <li>Tuesday: </li>
+  <li>Wednesday: </li>
+  <li>Thursday: </li>
+  <li>Friday: </li>
+</ul>
+</details>
+
+<details>
+<summary>Week 11</summary>
+<ul>
+  <li>Monday: </li>
+  <li>Tuesday: </li>
+  <li>Wednesday: </li>
+  <li>Thursday: </li>
+  <li>Friday: </li>
+</ul>
+</details>
+
+<details>
+<summary>Week 12</summary>
 <ul>
   <li>Monday: Randomize Array</li>
   <li>Tuesday: Primes Summed</li>
@@ -73,15 +140,18 @@
   <li>Thursday: Lowest Common Denominator</li>
   <li>Friday: Competency day</li>
 </ul>
+</details>
 
-### Week 9 (work in progress)
+<details>
+<summary>Week 13</summary>
 <ul>
   <li>Monday: Fibonacci Recursion</li>
   <li>Tuesday: Does It Contain</li>
-  <li>Wednesday: Interview Prep</li>
-  <li>Thursday: Interview Prep</li>
-  <li>Friday: Competency day</li>
+  <li>Wednesday: </li>
+  <li>Thursday: </li>
+  <li>Friday: </li>
 </ul>
+</details>
 
 ## Problem Solving
 

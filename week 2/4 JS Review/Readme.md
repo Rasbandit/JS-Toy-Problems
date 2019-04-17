@@ -1,4 +1,4 @@
-# Week 2 Day 4 - JS Review
+# Week 2 Day 4 - JS Review, pre skill check
 
 ## Goal
 
