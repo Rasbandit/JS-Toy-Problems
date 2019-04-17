@@ -29,7 +29,3 @@ function vowelCounter(str) {
   }
 
 console.log(vowelCounter(vowelString));
-
-
-//After fixing bonus work
-//
