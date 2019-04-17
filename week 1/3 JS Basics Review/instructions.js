@@ -1,11 +1,11 @@
-//DATATYPES
+//DATA TYPES
 
 /*
 For the first part of the exercise let's make
-some variables with different datatypes
+some variables with different data types
 */
 
-//list the six main datatypes
+//list the six main data types
 
 //Create a variable with a boolean value called likesPizza. ANSWER CORRECTLY! 
 
@@ -27,9 +27,9 @@ and characteristics should be an array.
 
 //!BONUS ROUND!
 
-// Create a new variable that is equal to a concatanation of myString and favoriteNumber and call it concat
+// Create a new variable that is equal to a concatenation of myString and favoriteNumber and call it concat
 
-// Create another concatanated variable using myString, favoriteNumber, and two different items from favoriteFoods
+// Create another concatenated variable using myString, favoriteNumber, and two different items from favoriteFoods
 
 //Try to use the typeof Operator on all of the variables you just created
 

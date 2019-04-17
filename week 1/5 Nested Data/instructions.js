@@ -11,18 +11,18 @@ const composer = {
     'Johann Thomas Leopold Mozart',
     'Theresia Constantia Adelhaid Friederica Marianna Mozart',
     'Anna Maria Mozart',
-    'Franz Xaver Wolfgang Mozart'
+    'Franz Xaver Wolfgang Mozart',
   ],
   compositions: [],
   compose(piece) {
-    this.compositions.push(piece)
-    return this.compositions
-  }
-}
+    this.compositions.push(piece);
+    return this.compositions;
+  },
+};
 /* Don't change above this line */
 
 // Combine the composer's first and last names, storing on
-// a variable called 'fullName'. 
+// a variable called 'fullName'.
 
 // CODE HERE
 
@@ -33,7 +33,7 @@ const composer = {
 
 // CODE HERE
 
-// Create another variable called 'mouthsToFeed' and set its value to be 
+// Create another variable called 'mouthsToFeed' and set its value to be
 // the length of the children array.
 
 // CODE HERE
@@ -42,16 +42,16 @@ const composer = {
 
 // CODE HERE
 
-// Create a variable called 'fruitless'. The value of this variable should 
+// Create a variable called 'fruitless'. The value of this variable should
 // be the length of the compositions array.
 
 // CODE HERE
 
-// Invoke the 'compose' function on our composer object. The function has 
-// a parameter of 'piece'. Give the compose function an argument of 
-// 'Twinkle Twinkle Little Star' for the piece parameter. This will add 
-// 'Twinkle Twinkle Little Star' to the compositions array, and return the 
-// updated compositions array. Save the returned value to a variable 
+// Invoke the 'compose' function on our composer object. The function has
+// a parameter of 'piece'. Give the compose function an argument of
+// 'Twinkle Twinkle Little Star' for the piece parameter. This will add
+// 'Twinkle Twinkle Little Star' to the compositions array, and return the
+// updated compositions array. Save the returned value to a variable
 // called 'prolific'.
 
 // CODE HERE
@@ -64,13 +64,12 @@ const composers = [
     age: 56,
     country: 'Germany',
     era: 'Romantic',
-    children: [
-    ],
+    children: [],
     compositions: ['Ode To Joy', 'Fur Elise'],
     compose(piece) {
-      this.compositions.push(piece)
-      return this.compositions
-    }
+      this.compositions.push(piece);
+      return this.compositions;
+    },
   },
   {
     firstName: 'Johann Sebastian',
@@ -89,13 +88,19 @@ const composers = [
       'Elisabeth Juliane Friederica',
       'Johann Christoph Altnickol',
       'Johanna Carolina',
-      'Regina Susanna'
+      'Regina Susanna',
     ],
-    compositions: ['St. Mathew\'s Passion', 'Well Tempered Klavier', 'Jesu, Joy of Man\'s Desiring', 'French Suite No. 5', 'Italian Concerto'],
+    compositions: [
+      "St. Mathew's Passion",
+      'Well Tempered Klavier',
+      "Jesu, Joy of Man's Desiring",
+      'French Suite No. 5',
+      'Italian Concerto',
+    ],
     compose(piece) {
-      this.compositions.push(piece)
-      return this.compositions
-    }
+      this.compositions.push(piece);
+      return this.compositions;
+    },
   },
   {
     firstName: 'John',
@@ -103,16 +108,12 @@ const composers = [
     age: 87,
     country: 'United States',
     era: 'Today',
-    children: [
-      'Joseph Williams',
-      'Jennifer Williams',
-      'Mark Towner Williams'
-    ],
+    children: ['Joseph Williams', 'Jennifer Williams', 'Mark Towner Williams'],
     compositions: ['Star Wars', 'Jurassic Park', 'Harry Potter', 'Indiana Jones'],
     compose(piece) {
-      this.compositions.push(piece)
-      return this.compositions
-    }
+      this.compositions.push(piece);
+      return this.compositions;
+    },
   },
   {
     firstName: 'Neal',
@@ -123,11 +124,11 @@ const composers = [
     children: [],
     compositions: [],
     compose(piece) {
-      this.compositions.push(piece)
-      return this.compositions
-    }
-  } 
-]
+      this.compositions.push(piece);
+      return this.compositions;
+    },
+  },
+];
 /* Don't change above this line */
 
 // Access Beethoven's country
@@ -140,16 +141,16 @@ const composers = [
 
 // Neal Hefti composed using math. Here's his composition:
 /* Don't change below this line */
-let song = []
+let song = [];
 for (let i = 0; i < 16; i++) {
-  song.push('d' - 1)
+  song.push('d' - 1);
 }
-song.push(' batman!')
-song = song.join('')
-console.clear()
+song.push(' batman!');
+song = song.join('');
+console.clear();
 /* Don't change above this line */
 
-// Invoke Neal Hefti's 'compose' method passing in the 'song' variable as 
+// Invoke Neal Hefti's 'compose' method passing in the 'song' variable as
 // an argument.
 
 // CODE HERE

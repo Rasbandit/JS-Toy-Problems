@@ -9,14 +9,14 @@
 
 
 function caseReverse(str) {
-  var strArray = str.split(' ');
+var strArray = str.split(' ');
   for (var i = 1; i < strArray.length; i++) {
     if (strArray[i] === strArray[i].toUpperCase()) {
       strArray[i].toLowerCase();
-    } else {
+  } else {
       strArray[i].toUpperCase();
-    }
   }
+  
   return strArray
 }
 

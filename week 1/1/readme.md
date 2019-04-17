@@ -1,1 +1,0 @@
-# No morning exercise for day 1

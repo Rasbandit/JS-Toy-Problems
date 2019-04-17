@@ -2,7 +2,7 @@
 
 ## Links
 
-- https://github.com/jlmcd/react-drills-broken
+- https://github.com/DevMountain/react-drills-broken-debugging-practice
 
 ## Goals
 
