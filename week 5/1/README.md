@@ -2,7 +2,7 @@
 
 ## Goals
 
-The goal of today's toy problem is to help students learn precisely how different css attributes behave, as well as precision in selecting html elements. Students should show an increased understanding of complex selectors, pseudo selectors, and pseudo elements.
+The goal of today's toy problem is to help students learn precisely how different css properties behave, as well as precision in selecting html elements. Students should show an increased understanding of complex selectors, pseudo selectors, and pseudo elements.
 
 ## Important Pseudo Selectors
 
@@ -66,4 +66,44 @@ The goal of today's toy problem is to help students learn precisely how differen
 
     - Select the **first** element listed on the right, that share the same parent as the element on the left **and comes after it**
 
-  - 
+## Important Pseudo Elements
+
+- :before
+- :after
+- :first-letter
+- :placeholder
+- the content property
+
+## Important CSS Properties
+
+1. position:
+    - static
+    - relative
+    - absolute
+    - fixed
+    - sticky
+2. display:
+    - none
+    - inline
+    - block
+    - inline-block
+    - flex
+    - grid
+3. background-
+    - -color
+    - -image
+    - -repeat
+    - -position
+    - -size
+4. overflow: (also overflow-x:, overflow-y:)
+    - visible
+    - hidden
+    - clip
+    - scroll
+5. text-transform:
+    - capitalize
+    - uppercase
+    - lowercase
+6. text-shadow: & box-shadow:
+    - x-offset, y-offset, blur, color
+7. !important
