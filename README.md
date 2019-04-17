@@ -5,16 +5,16 @@
 ### Week 1
 <ul>
   <li>Monday: none</li>
-  <li>Tuesday: Getting a Repo up to github</li>
+  <li>Tuesday: Git Practice</li>
   <li>Wednesday: Js Review</li>
   <li>Thursday: Vs Intro</li>
-  <li>Friday: Accessing objects Easy</li>
+  <li>Friday: Nested Data Easy</li>
 </ul>
 
 ### Week 2
 <ul>
   <li>Monday: Debugging Methodology</li>
-  <li>Tuesday: small vanilla js problem????? (david)(todd review/brainstorm)</li>
+  <li>Tuesday: Small vanilla js problem????? (david)(todd review/brainstorm)</li>
   <li>Wednesday: HTML Layout (matt)</li>
   <li>Thursday: Review (mentor or instructor????)</li>
   <li>Friday: Skill Check Review</li>
@@ -24,8 +24,8 @@
 <ul>
   <li>Monday: Array Cardio</li>
   <li>Tuesday: This and context (give them 15-20 minutes to try it out)</li>
-  <li>Wednesday: React Drills, but they're broken 🤕(do this the whole time with them)(jonathan)</li>
-  <li>Thursday: bob ross family tree</li>
+  <li>Wednesday: Broken React Drills</li>
+  <li>Thursday: Nested Data Hard</li>
   <li>Friday: spread operator (matt)</li>
 </ul>
 

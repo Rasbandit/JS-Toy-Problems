@@ -1,6 +1,6 @@
-# Instructor Guide
+# Week 1 Day 2 - Command Line and Git
 
-## Synopsis
+## Goal
 
 The purpose of this exercise is to help get more practice using the command prompt and git.
 

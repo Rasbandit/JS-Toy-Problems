@@ -1,4 +1,4 @@
-# Instructor Guide
+# Week 1 Day 3 - JS Basics Review
 
 ## Main Topics
 

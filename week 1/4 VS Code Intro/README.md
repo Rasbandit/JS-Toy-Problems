@@ -1,4 +1,4 @@
-# Instructor Guide
+# Week 1 Day 4 - VS Code Intro
 
 ## Links
 
