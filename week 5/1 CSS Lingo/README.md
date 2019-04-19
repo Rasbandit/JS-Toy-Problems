@@ -4,6 +4,16 @@
 
 The goal of today's toy problem is to help students learn precisely how different css properties behave, as well as precision in selecting html elements. Students should show an increased understanding of complex selectors, pseudo selectors, and pseudo elements.
 
+## Notes for the Instructor
+
+Below is a list of important pseudo selectors, elements, and css properties which students should become familiar with to get comfortable with styling. Keep them in mind and use the project as a playground to explore their effects. This project requires both the HTML and CSS files, but changes should be done only in CSS.
+
+A link is provided to a code sandbox with these files, but alternatively the instructor can share the files themselves and have the class work in VS Code.
+
+## Link
+
+- https://codesandbox.io/s/l906l94q8l
+
 ## Important Pseudo Selectors
 
 - :hover
