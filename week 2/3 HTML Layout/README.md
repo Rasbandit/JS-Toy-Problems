@@ -1,4 +1,4 @@
-# Basic CSS Layout
+# Week 2 Day 3 - HTML Layout
 
 The purpose of this toy problem is to help students apply their recently learned flexbox skills in css/html.
 

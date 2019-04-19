@@ -1,4 +1,4 @@
-# Instructor Guide
+# Week 2 Day 1 - Debugging Methodology
 
 ## Goal
 
