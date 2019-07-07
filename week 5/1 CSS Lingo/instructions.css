@@ -1,0 +1,139 @@
+/*  
+    1. 
+    - Using only one line, give all elements on the document
+        the property "box-sizing" with the value "border-box" 
+*/
+
+/* CODE HERE */
+
+
+
+/* 
+    2.
+    - Without modifying the html document, select all h1
+        elements, and change them to all caps. (i.e. 'First 
+        Header' becomes 'FIRST HEADER')
+*/
+
+/* CODE HERE */
+
+
+
+/* 
+    3.
+    - Select only the first h2 (underneath the First Header), and 
+        capitalize each word inside. (i.e. 'sub header' becomes 
+        'Sub Header')
+*/
+
+/* CODE HERE */
+
+
+
+/* 
+    4. 
+    - One of the headers is bigger than the others, but there are no
+        css properties affecting it. Why is that? 
+    - Inspect the element to see if you can figure out what is happening. 
+    - Select only the h1 tag used for the second header and give it a 
+        font size to match the others and a background color of #BADA55.
+*/
+
+/* CODE HERE */
+
+
+
+/* 
+    5. 
+    - Select the span element surrounding the word "repellendus". 
+    - Give this element a font size 3 times the document's default 
+        font size.
+*/
+
+/* CODE HERE */
+
+
+
+/* 
+    6. 
+    - Select every other child of the unordered list element beginning 
+        with the first li. 
+    - Give these elements a light gray background color.
+*/
+
+/* CODE HERE */
+
+
+
+/* 
+    7. 
+    - Select the last "section" element 
+    - Use flexbox to organize its contents side by side, with the 
+        third header on the left and the fourth header on the right. 
+    - Ensure the content remains on the left side of the page.
+*/
+
+/* CODE HERE */
+
+
+
+/* 
+    8. 
+    - Select the div surrounding the second header. 
+    - Give it a solid black border and a fixed height and width of 
+        100px so it is perfectly square. 
+    - Ensure its contents do not fall outside of the border.
+    - Without selecting any other elements, center this div on the 
+        page horizontally.
+    - Change the size of the box to display all its contents when you
+        hover over it. (Hint: use 'auto' as a value)
+*/
+
+/* CODE HERE */
+
+
+
+/* 
+    9. 
+    - Select the input box, and remove its top, left, and right borders.
+    - Change the background color to #ffd00077 when you mouse over it, as
+        well as when you are typing in it.
+    - Remove the glowing blue outline that appears when you click inside.
+*/
+
+/* CODE HERE */
+
+
+
+/* 
+    10. 
+    - Select the button which shares the same parent as the first header.
+    - Change the font size of the button to be 3 times the document's
+        default font size.
+    - Remove its border and replace it with a black shadow offset by 
+        5 pixels to the left and 5 pixels down. Give the shadow a blur 
+        of 10px.
+    - When the button is being clicked, change the shadow's offset to
+        be 5 pixels on the right and 5 pixels on the top, but on the 
+        inside of the button.
+    - Remove the blue outline which appears when you click the button.
+    - As you mouse over the button, we want two different shadows: 
+        One on the outside bottom and left, at 3px.
+        One on the inside top and right, at 2px.
+    - We should end up with three different states: 
+        One normal state
+        One for hovering over the button
+        One for clicking the button
+*/
+
+/* CODE HERE */
+
+
+/* 
+    11. 
+    - Change the default color for highlighting text to #cbffb7.
+*/
+
+/* CODE HERE */
+
+

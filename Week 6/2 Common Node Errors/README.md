@@ -1,0 +1,1 @@
+# Week 6 Day 2 - Common Node Errors
